@@ -4,7 +4,7 @@
 
 This repository contains the computational materials for a philosophy of science paper on the use of **Empirical Network Analysis (ENA)** to study **scientific innovation**.
 
-The project examines whether ENA can support a general account of how scientific innovations spread across scientific communities. To do so, it applies a procedure similar to the one used by Herfeld and Doehne (2019) in their study of **rational choice theory** to a different case study: the diffusion of **Shannon’s information theory**. The aim is both reconstructive and critical: the notebook reproduces the main analytical steps of the method, while the paper discusses the philosophical significance and limitations of the results.
+The project examines whether ENA can support a general account of how scientific innovations spread across scientific communities. To do so, it applies a procedure similar to the one used by Herfeld and Doehne (2019) in their study of **rational choice theory** to a different case study: the diffusion of **Shannon’s information theory**. The aim is both reconstructive and critical: the notebook reproduces the main analytical steps of the method with some modifications, while the paper discusses the philosophical significance and limitations of the results.
 
 ## Research question
 
@@ -14,7 +14,7 @@ The project addresses two closely related questions:
    Do the observations made by Herfeld and Doehne on the basis of the rational choice theory case generalize to a different scientific innovation?
 
 2. **Methodological adequacy**  
-   Can the topology of a citation-based network, by itself, support distinctions such as **epistemic core**, **elaborators**, and **translators**?
+   Can the topology of a citation-based network, by itself, support distinctions such as **epistemic core**, **elaborators**, and **translators**, which are presented as key roles in the process of scientific innovation?
 
 These questions are investigated through a case study of the diffusion of **information theory**, starting from Claude Shannon’s *A Mathematical Theory of Communication* (1948).
 
@@ -23,11 +23,11 @@ These questions are investigated through a case study of the diffusion of **info
 - `information_theory.ipynb`  
   Main notebook containing the computational analysis.
 
-- `paper/Term_Paper_Comp_Methods.pdf`  
+- `paper/Scientific_innovation_ENA_paper.pdf`  
   Full paper discussing the philosophical background, the methodological choices, and the interpretation of the results.
 
 - `data/`  
-  Input files used by the notebook, if included.
+  Input files used by the notebook.
 
 - `requirements.txt`  
   Python dependencies needed to run the notebook.
@@ -75,14 +75,12 @@ The notebook relies on standard Python libraries for data handling, network anal
 - `plotly`
 - `scikit-learn`
 
-A `requirements.txt` file is recommended for reproducibility.
 
 ## How to run
 
 1. Clone the repository.
 2. Install the required dependencies.
-3. Make sure the input data files are in the expected location.
-4. Open and run `information_theory.ipynb`.
+3. Open and run `information_theory.ipynb`.
 
 ## Paper
 
@@ -92,6 +90,9 @@ The full paper is included in the repository and provides:
 - the comparison with Herfeld and Doehne’s account of scientific innovation;
 - the rationale behind the construction of the network;
 - the interpretation of the results and their broader significance.
+
+
+
 
 
 
