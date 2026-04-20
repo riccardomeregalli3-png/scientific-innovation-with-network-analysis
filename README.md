@@ -4,7 +4,7 @@
 
 This repository contains the computational materials for a philosophy of science paper on the use of **Empirical Network Analysis (ENA)** to study **scientific innovation**.
 
-The project examines whether ENA can support a general account of how scientific innovations spread across scientific communities. To do so, it applies a procedure similar to the one used by Herfeld and Doehne in their study of **rational choice theory** to a different case study: the diffusion of **Shannon’s information theory**. The aim is both reconstructive and critical: the notebook reproduces the main analytical steps of the method, while the paper discusses the philosophical significance and limitations of the results.
+The project examines whether ENA can support a general account of how scientific innovations spread across scientific communities. To do so, it applies a procedure similar to the one used by Herfeld and Doehne (2019) in their study of **rational choice theory** to a different case study: the diffusion of **Shannon’s information theory**. The aim is both reconstructive and critical: the notebook reproduces the main analytical steps of the method, while the paper discusses the philosophical significance and limitations of the results.
 
 ## Research question
 
