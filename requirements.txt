@@ -1,0 +1,7 @@
+pandas
+numpy
+networkx
+plotly
+scikit-learn
+python-louvain
+jupyter

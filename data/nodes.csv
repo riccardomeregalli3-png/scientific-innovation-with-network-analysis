@@ -1,0 +1,660 @@
+﻿node_id,reference_occurrence,degree,year,doi,title,cited_by_count,authors
+https://openalex.org/W2069271851,3,1,1972,10.1137/1.9781611970654.ch1,1. Bayesian Statistics a Review,530,D. V. Lindley
+https://openalex.org/W2148962857,10,1,1955,10.2307/1884852,A Behavioral Model of Rational Choice,14887,Herbert A. Simon
+https://openalex.org/W1568559199,3,1,1970,10.1007/bf00533669,A characterization of limiting distributions of regular estimates,278,Jaroslav H�jek
+https://openalex.org/W2117476053,3,1,1956,10.1002/j.1538-7305.1956.tb02379.x,A Class of Binary Signaling Alphabets,195,D. Slepian
+https://openalex.org/W1973071586,10,2,1972,10.1007/bf02018661,A class of measures of informativity of observation channels,195,Imre Csiszár
+https://openalex.org/W2121417875,15,2,1954,10.1109/tit.1954.1057465,A class of multiple-error-correcting codes and the decoding scheme,840,I.S. Reed
+https://openalex.org/W2057178439,8,5,1973,10.1287/mnsc.19.8.936,A Class of Solutions for Group Decision Problems,1090,P. L. Yu
+https://openalex.org/W2157875630,7,4,1966,10.1109/tit.1966.1053879,A coding scheme for additive noise channels with feedback--I: No bandwidth constraint,555,J. Schalkwijk; T. Kailath
+https://openalex.org/W2096307573,3,2,1966,10.1109/tit.1966.1053880,A coding scheme for additive noise channels with feedback--II: Band-limited signals,233,J. Schalkwijk
+https://openalex.org/W2001935257,14,8,1965,10.1016/s0019-9958(65)90332-3,A coding theorem and Rényi's entropy,276,L. L. Campbell
+https://openalex.org/W1978382377,3,1,1973,10.1002/j.1538-7305.1973.tb02004.x,A Coding Theorem for Multiple Access Channels With Correlated Sources,404,D. Slepian; Jack K. Wolf
+https://openalex.org/W2028069026,3,1,1931,10.1002/ar.1090500303,A comparison between the mosaic of polygons in a film of artificial emulsion and the pattern of simple epithelium in surface view (cucumber epidermis and human amnion),106,Frederic T. Lewis
+https://openalex.org/W2026881511,5,7,1974,10.1016/0020-0271(74)90069-2,A comparison of algorithms for data base compression by use of fragments as language elements,51,Ernst J. Schuegraf; H. S. Heaps
+https://openalex.org/W2016944307,25,2,1940,10.1214/aoms/1177731944,A Comparison of Alternative Tests of Significance for the Problem of $m$ Rankings,2651,Milton Friedman
+https://openalex.org/W2014944833,9,3,1952,10.1002/j.1538-7305.1952.tb01393.x,A Comparison of Signalling Alphabets,535,E. N. Gilbert
+https://openalex.org/W2070282449,20,3,1964,10.2307/1934933,A Comparison of Some Species‐Individuals Diversity Indices Applied to Samples of Field Insects,549,Edward F. Menhinick
+https://openalex.org/W1968076658,7,3,1973,10.1007/bf01014906,A comparison of the Shannon and Kullback information measures,89,Arthur Hobson; Bin-Kang Cheng
+https://openalex.org/W2095087262,5,4,1969,10.1111/j.1529-8817.1969.tb02581.x,A COMPOSITE RATING OF ALGAE TOLERATING ORGANIC POLLUTION<sup>2</sup>,569,C. Mervin Palmer
+https://openalex.org/W2143121893,4,6,1975,10.1109/tit.1975.1055437,A conditional entropy bound for a pair of discrete random variables,146,H. S. Witsenhausen; A.D. Wyner
+https://openalex.org/W2143423258,4,1,1965,10.1143/ptp.34.399,A Continued-Fraction Representation of the Time-Correlation Functions,1791,Hazime Mori
+https://openalex.org/W2010138343,13,1,1973,10.1007/bf01646490,A continuity property of the entropy density for spin lattice systems,398,M. Fannes
+https://openalex.org/W1963688013,5,1,1955,10.1021/ja01607a027,A Correlation of Reaction Rates,3523,George S. Hammond
+https://openalex.org/W2170187382,4,2,1974,10.1109/tit.1974.1055217,A decoding algorithm for binary block codes andJ-ary output channels (Corresp.),108,B.G. Dorsch
+https://openalex.org/W2040121225,72,7,1972,10.1016/s0019-9958(72)90199-4,A definition of a nonprobabilistic entropy in the setting of fuzzy sets theory,2241,Aldo de Luca; S. Termini
+https://openalex.org/W2401717588,5,17,1966,10.1111/j.2517-6161.1966.tb00668.x,A Derivation of the Probabilistic Explication of Information,57,I. J. Good
+https://openalex.org/W1509016759,7,1,1949,,"A device for quantizing, grouping, and coding amplitude-modulated pulses",259,Leon Gordon Kraft
+https://openalex.org/W4213350211,32,7,1964,10.1016/s0019-9958(64)90223-2,A formal theory of inductive inference. Part I,1154,Ray J. Solomonoff
+https://openalex.org/W2135625884,32,9,1964,10.1016/s0019-9958(64)90131-7,A formal theory of inductive inference. Part II,1774,Ray J. Solomonoff
+https://openalex.org/W152055444,6,2,1966,10.1111/j.2517-6161.1966.tb00626.x,A General Class of Coefficients of Divergence of One Distribution from Another,1210,Syed Mustafa Ali; S. D. Silvey
+https://openalex.org/W2904900506,11,1,1968,10.1111/j.2517-6161.1968.tb00722.x,A Generalization of Bayesian Inference,1942,A. P. Dempster
+https://openalex.org/W1983537136,6,2,1975,10.1214/aop/1176996402,A Generalization of Ornstein's $\bar d$ Distance with Applications to Information Theory,113,Robert M. Gray; David L. Neuhoff; Paul C. Shields
+https://openalex.org/W2144452965,7,1,1968,10.1109/tit.1968.1054145,A geometric treatment of the source encoding of a Gaussian random variable,96,D. Sakrison
+https://openalex.org/W2087362480,14,7,1963,10.1109/tit.1963.1057827,A heuristic discussion of probabilistic decoding,495,Robert M. Fano
+https://openalex.org/W2093984772,8,6,1951,10.1049/pi-3.1951.0082,A history of the theory of information,81,E. Colin Cherry
+https://openalex.org/W1995341919,24,1,1943,10.1007/bf02478259,A logical calculus of the ideas immanent in nervous activity,17689,Warren S. McCulloch; Walter Pitts
+https://openalex.org/W2128700225,6,6,1967,10.1109/tit.1967.1053977,A lower bound to the distribution of computation for sequential decoding,155,I. M. Jacobs; Elwyn R. Berlekamp
+https://openalex.org/W2069969835,3,1,1975,10.1016/s0019-9958(75)90120-5,A lower bounding method for channel and source coding probabilities,27,J. K. Omura
+https://openalex.org/W2089442854,7,9,1967,10.1145/321386.321395,A Machine-Independent Theory of the Complexity of Recursive Functions,835,Manuel Blum
+https://openalex.org/W2164716611,5,15,1968,10.1111/j.1468-0149.1968.tb01392.x,A MATERIALIST THEORY OF THE MIND,1748,Elizabeth Kingdom
+https://openalex.org/W2086699924,8,3,1970,10.1214/aoms/1177697196,A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains,4302,Leonard E. Baum; Ted Petrie; George Soules; Norman Weiß
+https://openalex.org/W2042587503,9,1,1952,10.1214/aoms/1177729330,A Measure of Asymptotic Efficiency for Tests of a Hypothesis Based on the sum of Observations,3577,Herman Chernoff
+https://openalex.org/W2060108852,113,11,1952,10.1109/jrproc.1952.273898,A Method for the Construction of Minimum-Redundancy Codes,6228,David A. Huffman
+https://openalex.org/W2105934661,10,1,1960,10.1115/1.3662552,A New Approach to Linear Filtering and Prediction Problems,30463,R. E. Kalman
+https://openalex.org/W2123485355,13,2,1954,10.1109/tit.1954.1057459,A new basic theorem of information theory,246,Amiel Feinstein
+https://openalex.org/W2142635246,52,2,1974,10.1109/tac.1974.1100705,A new look at the statistical model identification,49749,Hirotugu Akaike
+https://openalex.org/W2414895359,6,3,1954,10.1093/oxfordjournals.aob.a083391,A New Method for determining the Type of Distribution of Plant Individuals,514,Brian Hopkins; J. G. Skellam
+https://openalex.org/W2010742203,5,3,1965,10.1063/1.1704739,A New Phase-Space Distribution Function in the Statistical Theory of the Electromagnetic Field,255,Yutaka Kano
+https://openalex.org/W2072973836,6,3,1969,10.1007/bf01106578,A new theorem of information theory,100,Arthur Hobson
+https://openalex.org/W2165731899,3,1,1956,10.1109/tit.1956.1056790,A note off two binary signaling alphabets,88,D. Slepian
+https://openalex.org/W2320045903,19,3,1957,10.2307/2372390,A Note on Entropy,469,I. I. Hirschman
+https://openalex.org/W2061539524,3,1,1961,10.1214/aoms/1177705069,A Note on the Ergodic Theorem of Information Theory,103,Kai Lai Chung
+https://openalex.org/W2059295424,11,4,1956,10.1007/bf02477836,A note on the information content of graphs,224,Ernesto Trucco
+https://openalex.org/W1966262860,7,1,1963,10.1029/jz068i003p00813,A plotting rule for extreme probability paper,928,Irving I. Gringorten
+https://openalex.org/W2155676967,11,12,1975,10.1109/tit.1975.1055356,A proof of the data compression theorem of Slepian and Wolf for ergodic sources (Corresp.),387,Thomas M. Cover
+https://openalex.org/W2152311269,5,1,1959,10.1139/o59-099,A RAPID METHOD OF TOTAL LIPID EXTRACTION AND PURIFICATION,48686,E. G. Bligh; W. J. Dyer
+https://openalex.org/W2033020033,12,6,1974,10.1109/tit.1974.1055184,A simple converse for broadcast channels with additive white Gaussian noise (Corresp.),458,P. Bergmans
+https://openalex.org/W1993944611,26,13,1965,10.1109/tit.1965.1053730,A simple derivation of the coding theorem and some applications,696,Robert G. Gallager
+https://openalex.org/W2094070726,3,1,1950,10.1109/jrproc.1950.231821,A Simplified Derivation of Linear Least Square Smoothing and Prediction Theory,277,H.W. Bode; Chad E. Shannon
+https://openalex.org/W2151252878,4,3,1970,10.1147/rd.145.0539,A Statistical Mechanical Approach to Systems Analysis,57,Arthur E. Ferdinand
+https://openalex.org/W3035139526,5,2,1970,,A statistical method for estimation of speech spectral density and formant frequencies,227,Fumitada Itakura
+https://openalex.org/W2229908198,9,2,1958,10.5281/zenodo.16435756,A Statistical Method for Evaluating Systematic Relationships,4490,Robert R. Sokal; Charles D. Michener
+https://openalex.org/W2066792529,4,1,1964,10.1145/363958.363994,A technique for computer detection and correction of spelling errors,1545,Fred J. Damerau
+https://openalex.org/W2005140191,5,1,1962,10.1145/321105.321114,A Technique for the Numerical Solution of Certain Integral Equations of the First Kind,2019,David Lee Phillips
+https://openalex.org/W2000305036,6,2,1954,10.2307/2281537,A Test of Goodness of Fit,1471,T. W. Anderson; D. A. Darling
+https://openalex.org/W3140053156,9,5,1973,10.1109/tit.1973.1055107,A theorem on the entropy of certain binary sequences and applications--I,172,Abraham J. Wyner; J. Ziv
+https://openalex.org/W2104641770,8,3,1973,10.1109/tit.1973.1055108,A theorem on the entropy of certain binary sequences and applications--II,255,A.D. Wyner
+https://openalex.org/W160989634,14,1,1972,,A theory of Pavlovian conditioning : Variations in the effectiveness of reinforcement and nonreinforcement,7173,Robert A. Rescorla
+https://openalex.org/W2020311636,11,1,1975,10.1145/321892.321894,A Theory of Program Size Formally Identical to Information Theory,876,Gregory J. Chaitin
+https://openalex.org/W2090454135,3,2,1967,10.1109/pgec.1967.264753,Adaptive Coding for Self-Clocking Recording,26,Andrew Gabor
+https://openalex.org/W2037034710,4,4,1970,10.1002/j.1538-7305.1970.tb04297.x,Adaptive Predictive Coding of Speech Signals,256,Bishnu S. Atal; Manfred R. Schroeder
+https://openalex.org/W2055815603,4,1,1973,10.1002/j.1538-7305.1973.tb02007.x,Adaptive Quantization in Differential PCM Coding of Speech,202,P. Cummiskey; N. Jayant; James L. Flanagan
+https://openalex.org/W1964087506,3,2,1973,10.1080/01621459.1973.10482459,Additivity of Information in Exponential Family Probability Laws,31,Gary Simon
+https://openalex.org/W2044879021,11,11,1973,10.2307/429334,Aesthetics and Psychobiology,1936,William Blizek; D. E. Berlyne
+https://openalex.org/W2135460279,3,4,1975,10.1109/tit.1975.1055418,An achievable rate region for the broadcast channel,183,Thomas M. Cover
+https://openalex.org/W1997162174,4,4,1971,10.6017/ital.v4i4.5595,An Algorithm for Compaction of Alphanumeric Data,19,William D. Schieber; George W. Thomas
+https://openalex.org/W2029236670,28,4,1972,10.1109/tit.1972.1054753,An algorithm for computing the capacity of arbitrary discrete memoryless channels,849,S. Arimoto
+https://openalex.org/W2103206811,7,1,1972,10.1109/tit.1972.1054832,An algorithm for source coding,151,J. Schalkwijk
+https://openalex.org/W2001461029,4,3,1971,10.1080/01621459.1971.10482297,An Analysis of Variance for Categorical Data,317,Richard J. Light; Barry H. Margolin
+https://openalex.org/W2051625847,3,1,1973,10.1214/aop/1176997024,An Application of Ergodic Theory to Probability Theory,99,Donald Ornstein
+https://openalex.org/W2048391704,4,2,1967,10.1109/proc.1967.5747,An application of Shannon's rate-distortion theory to analog communication over feedback channels,48,T. Kailath
+https://openalex.org/W3083113686,10,1,1958,10.1093/biomet/45.3-4.296,AN ESSAY TOWARDS SOLVING A PROBLEM IN THE DOCTRINE OF CHANCES,2918,BAYES
+https://openalex.org/W2325577240,4,1,1948,10.2307/2256647,An Index for Establishing the Degree of Maturity in Plant Communities,57,R. E. G. Pichi‐Sermolli
+https://openalex.org/W2084149476,5,3,1967,10.2307/1932674,An Index of Diversity and the Relation of Certain Concepts to Diversity,522,Robert P. McIntosh
+https://openalex.org/W1575431606,5,2,1972,,An inequality and associated maximization technique in statistical estimation of probabilistic functions of a Markov process,1419,Leonard E. Baum
+https://openalex.org/W2110381504,6,3,1968,10.1093/comjnl/11.2.185,An Information Measure for Classification,944,Christopher S. Wallace; D. M. Boulton
+https://openalex.org/W2111030512,41,4,1956,10.5962/bhl.title.5851,An introduction to cybernetics,7166,W. Ross Ashby
+https://openalex.org/W2159977619,23,6,1964,10.2307/2311344,An Introduction to Information Theory.,777,C. L. Mallows; F.M. Reza
+https://openalex.org/W1526492424,27,3,1970,10.2307/2406825,An Introduction to Mathematical Ecology.,3816,Richard Levins; E. C. Pielou
+https://openalex.org/W2314062728,5,9,1975,10.2307/1421906,An Introduction to Perception,365,Randolph Blake; Irvin Rock
+https://openalex.org/W4299432846,21,2,1972,10.2307/2344620,An Introduction to Probability Theory and its Applications.,5019,J. F. C. Kingmán; W. Feller
+https://openalex.org/W2090055713,6,5,1960,10.1115/1.3644060,An Introduction to the Physical Theories of Equilibrium Thermostatics and Irreversible Thermodynamics,52,Herbert B. Callen; J. Kestin
+https://openalex.org/W2917878399,3,1,1964,10.2307/2312633,An Introduction to the Theory of Stationary Random Functions.,521,S. Bochner; A. M. Yaglom; Richard A. Silverman
+https://openalex.org/W2006681603,15,2,1946,10.1098/rspa.1946.0056,An invariant form for the prior probability in estimation problems,2313,Harold Jeffreys
+https://openalex.org/W2088909704,3,1,1974,10.1086/111605,An iterative technique for the rectification of observed distributions,3724,L. B. Lucy
+https://openalex.org/W2147618390,146,4,1957,10.2307/1942268,An Ordination of the Upland Forest Communities of Southern Wisconsin,11433,J. R. Bray; J. T. Curtis
+https://openalex.org/W2323777246,4,1,1936,10.2307/2371045,An Unsolvable Problem of Elementary Number Theory,1727,Alonzo Church
+https://openalex.org/W2038058830,3,1,1969,10.1109/tit.1969.1054264,An upper bound on moments of sequential decoding effort,63,F. Jelinek
+https://openalex.org/W2089272304,5,1,1972,10.1016/s0019-9958(72)90365-8,An upper bound on the entropy series,85,A.D. Wyner
+https://openalex.org/W2071128523,19,1,1933,10.1037/h0071325,Analysis of a complex of statistical variables into principal components.,9286,H. Hotelling
+https://openalex.org/W2094740164,5,1,1959,10.1214/aoms/1177706359,Application of a Measure of Information to the Design and Comparison of Regression Experiments,82,M. Stone
+https://openalex.org/W2004229705,14,3,1954,10.1109/irepgelc.1954.6499441,Application of Boolean algebra to switching circuit design and to error detection,646,David E. Muller
+https://openalex.org/W1965027528,4,2,1970,10.1147/rd.144.0368,Application of Partial-response Channel Coding to Magnetic Recording Systems,203,Hiroshi Kobayashi; Deng Tang
+https://openalex.org/W2064084810,3,1,1971,10.1147/rd.151.0064,Application of Probabilistic Decoding to Digital Magnetic Recording Systems,150,Hiroshi Kobayashi
+https://openalex.org/W2042944554,20,4,1968,10.1016/0040-4020(68)88057-3,Application of the pople-santry-segal CNDO method to the cyclopropylcarbinyl and cyclobutyl cation and to bicyclobutane,4404,Kenneth B. Wiberg
+https://openalex.org/W2066052452,10,11,1961,10.2307/1419430,"Applications of Information Theory to Psychology: A Summary of Basic Concepts, Methods, and Results",366,Julian Hochberg; Fred Attneave
+https://openalex.org/W2146519989,11,5,1968,10.1109/tit.1968.1054193,Asymptotically efficient quantizing,468,H. Gish; John R. Pierce
+https://openalex.org/W2118840719,3,2,1971,10.1103/physrevlett.26.331,Axisymmetric Black Hole Has Only Two Degrees of Freedom,1254,B. Carter
+https://openalex.org/W2170608748,4,1,1972,10.1364/josa.62.000055,Bayesian-Based Iterative Method of Image Restoration*,4037,William Hadley Richardson
+https://openalex.org/W4235671834,3,1,1972,10.1137/1.9781611970654,Bayesian Statistics,233,D. V. Lindley
+https://openalex.org/W2022305914,9,1,1943,10.1086/286788,"Behavior, Purpose and Teleology",1528,A. Rosenblueth; Norbert Wiener; Julian Bigelow
+https://openalex.org/W2090099030,20,4,1927,10.1007/bf01397280,�ber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik,4079,W. Heisenberg
+https://openalex.org/W2031451638,50,2,1929,10.1007/bf01341281,�ber die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen,1218,Leo Szilard
+https://openalex.org/W1983196482,5,1,1970,10.1016/0001-8708(70)90029-0,Bernoulli shifts with the same entropy are isomorphic,478,Donald Ornstein
+https://openalex.org/W1647671624,14,1,1965,,"Binary codes capable of correcting deletions, insertions and reversals",10354,V.I. Levenshtein
+https://openalex.org/W2170716519,6,1,1960,10.1109/tit.1960.1057584,Binary codes with specified minimum distance,354,M. Plotkin
+https://openalex.org/W2146478425,13,2,1973,10.1103/physrevd.7.2333,Black Holes and Entropy,6929,Jacob D. Bekenstein
+https://openalex.org/W2028955838,10,4,1970,10.1016/s0019-9958(70)90369-4,Block codes for a class of constrained noiseless channels,170,Deng Tang; L.R. Bahl
+https://openalex.org/W2172074673,5,2,1963,10.1109/tcom.1963.1088759,Block Quantization of Correlated Gaussian Random Variables,387,Jingwei Huang; P.M. Schultheiss
+https://openalex.org/W2134723731,4,2,1971,10.1109/tit.1971.1054699,Bounds on the rate-distortion function for stationary sources with memory,61,A.D. Wyner; J. Ziv
+https://openalex.org/W2296441616,20,11,1972,10.1109/tit.1972.1054727,Broadcast channels,1709,Thomas M. Cover
+https://openalex.org/W1986407511,33,3,1935,10.1103/physrev.47.777,Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?,16276,Albert Einstein; Boris Podolsky; N. Rosen
+https://openalex.org/W2016119814,5,2,1974,10.1002/j.1538-7305.1974.tb02768.x,Capacity of the Gaussian Channel With Memory: The Multivariate Case,153,L. Brandenburg; A.D. Wyner
+https://openalex.org/W2029056003,5,1,1964,10.1111/j.1540-6261.1964.tb02865.x,CAPITAL ASSET PRICES: A THEORY OF MARKET EQUILIBRIUM UNDER CONDITIONS OF RISK*,17305,William F. Sharpe
+https://openalex.org/W2009124915,3,1,1967,10.2307/143299,Central Places in Southern Germany,2529,Brian J. I. Berry; Carlisle W. Baskin; Walter Christaller
+https://openalex.org/W3017830954,9,2,1924,10.1109/t-aiee.1924.5060996,Certain Factors Affecting Telegraph Speed,114,H. Nyquist
+https://openalex.org/W1981409066,9,1,1924,10.1002/j.1538-7305.1924.tb01361.x,Certain Factors Affecting Telegraph Speed<sup>1</sup>,416,H. Nyquist
+https://openalex.org/W2008825922,5,2,1957,10.1016/s0019-9958(57)90039-6,Certain results in coding theory for noisy channels,199,Claude E. Shannon
+https://openalex.org/W2134120396,28,3,1928,10.1109/t-aiee.1928.5055024,Certain Topics in Telegraph Transmission Theory,3024,H. Nyquist
+https://openalex.org/W1992600501,5,1,1962,10.1016/s0019-9958(62)90183-3,Channels which transmit letters of unequal duration,66,Ralph M. Krause
+https://openalex.org/W2021229217,16,1,1975,10.1021/ja00856a001,Characterization of molecular branching,3550,Milan Randić
+https://openalex.org/W2023355697,9,4,1972,10.1109/tit.1972.1054746,Class of algorithms for decoding block codes with channel measurement information,1083,D. Chase
+https://openalex.org/W1999590237,3,2,1963,10.1090/s0002-9947-1963-0158822-2,Classes of predictably computable functions,254,Robert W. Ritchie
+https://openalex.org/W609092168,9,1,1972,,Classical conditioning II: Current research and theory.,4521,A. H. Black; William F. Prokasy
+https://openalex.org/W3216147140,8,3,1959,,Codes correcteurs d'erreurs,522,A. Hocquenghem
+https://openalex.org/W1968981491,4,1,1975,10.1147/rd.194.0358,"Codes for Self-clocking, AC-coupled Transmission: Aspects of Synthesis and Analysis",12,Soongi Hong; D. L. Ostapko
+https://openalex.org/W2159963124,6,5,1972,10.1109/tit.1972.1054831,Coding of sources with unknown statistics--II: Distortion relative to a fidelity criterion,88,J. Ziv
+https://openalex.org/W2228259595,15,6,1963,10.1103/physrev.131.2766,Coherent and Incoherent States of the Radiation Field,6651,Roy J. Glauber
+https://openalex.org/W1968834637,11,1,1956,10.1021/ac60111a017,Colorimetric Method for Determination of Sugars and Related Substances,51103,Michel Dubois; K. A. Gilles; J. K. Hamilton; P. A. Rebers; F. Smith
+https://openalex.org/W2016927358,5,1,1966,10.1109/proc.1966.5344,"Comments on ""Sequence time coading for data compression""",59,L. Davisson
+https://openalex.org/W2092535964,3,4,1973,10.1145/361972.361982,Common phrases and minimum-space text storage,78,Robert A. Wagner
+https://openalex.org/W4252713891,83,9,1949,10.1109/jrproc.1949.232969,Communication in the Presence of Noise,5970,Claude E. Shannon
+https://openalex.org/W2100866683,5,1,1950,10.1002/j.1538-7305.1950.tb00933.x,Communication in the Presence of Noise-Probability of Error for Two Encoding Schemes,42,S. O. Rice
+https://openalex.org/W2109394932,79,3,1949,10.1002/j.1538-7305.1949.tb00928.x,Communication Theory of Secrecy Systems*,9209,Claude E. Shannon
+https://openalex.org/W3040853709,19,1,1949,,Communications in the presence of noise,1180,Claude E. Shannon
+https://openalex.org/W1666623353,8,2,1951,10.1525/9780520411586-009,Comparison of Experiments,1035,David Blackwell
+https://openalex.org/W2116102644,14,3,1975,10.1016/0024-3795(75)90075-0,Completely positive linear maps on complex matrices,2630,Man-Duen Choi
+https://openalex.org/W2027561650,12,2,1975,10.1007/bf01609396,Completely positive maps and entropy inequalities,629,Göran Lindblad
+https://openalex.org/W2066464728,4,3,1973,10.1016/0020-0271(73)90089-2,Compression of bibliographic files using an adaptation of run-length coding,22,Michael Lynch
+https://openalex.org/W2012140001,5,3,1968,10.2307/2313471,Computation: Finite and Infinite Machines.,2606,D. A. Clarke; Marvin Minsky
+https://openalex.org/W1970044166,4,3,1958,10.1147/rd.24.0346,Computation in the Presence of Noise,75,Peter Eliaš
+https://openalex.org/W2148986322,40,5,1972,10.1109/tit.1972.1054855,Computation of channel capacity and rate-distortion functions,1402,Richard E. Blahut
+https://openalex.org/W642705176,11,2,1971,,Concepts in statistical mechanics,167,Art Hobson
+https://openalex.org/W2585481599,4,2,1966,10.1088/0031-9112/17/7/024,Concepts of Probability Theory,30,G. E. H. Reuter
+https://openalex.org/W4247284182,6,14,1971,10.1080/00048407112341001,Conclusive reasons,521,Fred Dretske
+https://openalex.org/W1550812296,10,1,1972,,Conditional logit analysis of qualitative choice behavior,13968,Daniel McFadden
+https://openalex.org/W2043231452,4,1,1970,10.1038/228784a0,Connectance of Large Dynamic (Cybernetic) Systems: Critical Values for Stability,751,MARK R. GARDNER; W. Ross ASHBY
+https://openalex.org/W1966081094,5,15,1970,10.2307/2217666,Content and Consciousness.,1142,N. J. H. Dent; Daniel C. Dennett
+https://openalex.org/W1982214427,4,1,1922,10.1073/pnas.8.6.147,Contribution to the Energetics of Evolution,1029,Alfred J. Lotka
+https://openalex.org/W2142947219,5,1,1970,10.2307/2218418,Convention: A Philosophical Study.,3199,J. E. Llewelyn; David K. Lewis
+https://openalex.org/W2122683098,7,1,1971,10.1109/tcom.1971.1090700,Convolutional Codes and Their Performance in Communication Systems,1014,Andrew J. Viterbi
+https://openalex.org/W2025494293,4,1,1960,10.1214/aoms/1177705812,"Correction Notes: Correction to ""The Individual Ergodic Theorem of Information Theory""",46,Leo Breiman
+https://openalex.org/W2489872516,11,1,1961,10.1037/13140-000,"Cybernetics, or control and communication in the animal and the machine (2nd ed.).",1015,Norbert Wiener
+https://openalex.org/W2134732546,3,2,1964,10.1109/tit.1964.1053699,Cyclic decoding procedures for Bose- Chaudhuri-Hocquenghem codes,386,R. T. Chien
+https://openalex.org/W2912742595,7,2,1927,10.1007/bf01343064,Das D�mpfungsproblem in der Wellenmechanik,373,L. Landau
+https://openalex.org/W2139399084,7,1,1971,10.1109/tcom.1971.1090705,Data Transmission by Frequency-Division Multiplexing Using the Discrete Fourier Transform,2235,Stephen B. Weinstein; P. M. Ebert
+https://openalex.org/W2146041444,3,1,1970,10.1109/tcom.1970.1090404,Decision-Directed Digital Adaptive Equalization Technique for High-Speed Data Transmission,124,A. Lender
+https://openalex.org/W4292158025,8,1,1970,10.1287/mnsc.17.4.b141,Decision-Making in a Fuzzy Environment,6709,Richard Bellman; L. A. Zadeh
+https://openalex.org/W2993200506,5,15,1965,10.2307/2023571,Deductive Cogency in Inductive Inference,54,Isaac Levi
+https://openalex.org/W1998631532,3,2,1966,10.1007/bf00537132,Definition of entropy by means of a coding problem,65,L. L. Campbell
+https://openalex.org/W2016176419,4,1,1963,10.1063/1.1704014,Density Matrices Arising from Incomplete Measurements,81,Eyvind H. Wichmann
+https://openalex.org/W2033364080,5,2,1969,10.1103/physrev.177.1882,Density Operators and Quasiprobability Distributions,1225,Kévin Cahill; Roy J. Glauber
+https://openalex.org/W2492492049,3,1,1960,10.1037/11592-000,Design for a brain: The origin of adaptive behaviour (2nd ed. rev.).,353,W. Ross Ashby
+https://openalex.org/W1500551892,12,1,1968,,"Detection, Estimation, And Modulation Theory",5977,Harry L. Van Trees
+https://openalex.org/W2073384645,10,1,1935,10.1007/bf01491891,Die gegenw�rtige Situation in der Quantenmechanik,3312,E. Schr�dinger
+https://openalex.org/W2315811745,4,1,1952,10.1007/bf01821439,Die Winkelzählprobe,69,W. Bitterlich
+https://openalex.org/W2049352069,3,1,1964,10.1364/josa.54.000931,Diffraction and Resolving Power*,383,James L. Harris
+https://openalex.org/W2124583360,3,1,1974,10.1109/tcom.1974.1092165,Digital Amplitude-Phase Keying with M-Ary Alphabets,218,Christo Kurisummoottil Thomas; Michael Weidner; Sajjad Durrani
+https://openalex.org/W2142591210,4,2,1974,10.1109/proc.1974.9484,"Digital coding of speech waveforms: PCM, DPCM, and DM quantizers",260,N. Jayant
+https://openalex.org/W2031614119,14,3,1974,10.1109/t-c.1974.223784,Discrete Cosine Transform,4927,N. Ahmed; T. Natarajan; K.R. Rao
+https://openalex.org/W2040794877,12,2,1935,10.1017/s0305004100013554,Discussion of Probability Relations between Separated Systems,3041,Erwin Schrödinger
+https://openalex.org/W2049763161,20,5,1954,10.2307/1931034,Distance to Nearest Neighbor as a Measure of Spatial Relationships in Populations,3747,P. J. Clark; Francis C. Evans
+https://openalex.org/W2883810280,4,1,1951,,Diversidad de especies en las comunidades naturales,185,Ramón Margalef
+https://openalex.org/W2022825068,78,6,1973,10.2307/1934352,Diversity and Evenness: A Unifying Notation and Its Consequences,6195,M. O. Hill
+https://openalex.org/W1981971374,3,4,1972,10.1016/0043-1354(72)90023-1,Diversity in some south African diatom associations and its relation to water quality,131,R.E.M. Archibald
+https://openalex.org/W2064187509,19,6,1970,10.1126/science.168.3937.1345,Diversity of Planktonic Foraminifera in Deep-Sea Sediments,1017,Wolfgang Berger; Frances L. Parker
+https://openalex.org/W2035166278,6,1,1965,10.1126/science.147.3655.250,Dominance and Diversity in Land Plant Communities,1616,R. H. Whittaker
+https://openalex.org/W2066856439,23,3,1969,10.2307/1912805,Economics and Information Theory,2139,M. V. Rama Sastry; Henri Theil
+https://openalex.org/W4231546411,26,3,1970,10.2307/2325486,Efficient Capital Markets: A Review of Theory and Empirical Work,12968,Eugene F. Fama
+https://openalex.org/W2553767858,3,1,1952,,Efficient coding,50,Barry Oliver
+https://openalex.org/W2094396702,4,1,1975,10.1145/321879.321883,Efficient Generation of Optimal Prefix Code,47,Yehoshua Perl; M. R. Garey; Shimon Even
+https://openalex.org/W2079843014,4,1,1928,10.1007/bf01351576,Eine statistische Methode zur Bestimmung einiger Eigenschaften des Atoms und ihre Anwendung auf die Theorie des periodischen Systems der Elemente,1325,Enrico Fermi
+https://openalex.org/W1998274472,8,2,1971,10.1080/01621459.1971.10482346,Elicitation of Personal Probabilities and Expectations,1192,Leonard J. Savage
+https://openalex.org/W2144253890,5,2,1960,10.1109/tit.1960.1057586,Encoding and error-correction procedures for the Bose-Chaudhuri codes,294,W. W. Peterson
+https://openalex.org/W2045672556,5,1,1974,10.1007/bf01762187,Endomorphisms of irreducible subshifts of finite type,118,Ethan M. Coven; Michael E. Paul
+https://openalex.org/W2068588832,17,1,1971,10.1038/scientificamerican0971-179,Energy and Information,613,Myron Tribus; Edward C. McIrvine
+https://openalex.org/W2033152133,25,1,1973,10.1029/wr009i006p01511,Entropy in the assessment of uncertainty in hydrologic systems and models,162,J. Amorocho; B. Espildora
+https://openalex.org/W2090476622,6,1,1975,10.1007/bf01899728,"Entropy of type (α, β) and other generalized measures in information theory",141,B. D. Sharma; Inder J. Taneja
+https://openalex.org/W2034323860,7,1,1973,10.1109/tit.1973.1054929,Enumerative source encoding,502,Thomas M. Cover
+https://openalex.org/W1974749434,3,1,1964,10.1086/282334,Environmental Factors Affecting Bird Species Diversity,496,Robert H. MacArthur
+https://openalex.org/W4242331858,5,15,1970,10.2307/2024710,Epistemic Operators,982,Fred Dretske
+https://openalex.org/W2056760934,33,2,1953,10.1063/1.1699114,Equation of State Calculations by Fast Computing Machines,36538,N. Metropolis; Arianna W. Rosenbluth; M. N. Rosenbluth; Augusta H. Teller; Edward Teller
+https://openalex.org/W2091282305,9,3,1966,10.1103/physrev.144.151,Equations of Motion in Nonequilibrium Statistical Mechanics,398,Baldwin Robertson
+https://openalex.org/W2002330317,5,1,1967,10.1103/physrev.160.175,Equations of Motion in Nonequilibrium Statistical Mechanics. II. Energy Transport,141,Baldwin Robertson
+https://openalex.org/W1971432209,3,1,1966,10.2307/1910098,Equilibrium in a Capital Asset Market,4879,Jan Mossin
+https://openalex.org/W2078369635,8,1,1969,10.2307/1933900,Equitability Indices: Dependence on the Species Count,389,Andrew L. Sheldon
+https://openalex.org/W2056471637,12,7,1963,10.1103/physrevlett.10.277,Equivalence of Semiclassical and Quantum Mechanical Descriptions of Statistical Light Beams,2612,E. C. G. Sudarshan
+https://openalex.org/W2050495532,8,1,1953,10.1214/aoms/1177729032,Equivalent Comparisons of Experiments,1400,David Blackwell
+https://openalex.org/W2029071561,18,1,1966,10.2307/1401263,Ergodic Theory and Information,872,P. Révész; Patrick Billingsley; P. Revesz
+https://openalex.org/W583659940,4,2,1971,10.1007/bfb0066086,"Ergodic Theory, Entropy",120,Meir Smorodinsky
+https://openalex.org/W598210721,3,2,1974,,"Ergodic theory, randomness, and dynamical systems",485,Donald Ornstein
+https://openalex.org/W1991133427,27,9,1967,10.1109/tit.1967.1054010,Error bounds for convolutional codes and an asymptotically optimum decoding algorithm,6707,Andrew J. Viterbi
+https://openalex.org/W2064759901,18,2,1962,10.2307/2003832,Error-Correcting Codes.,2066,R. G. Gallager; W. W. Peterson
+https://openalex.org/W1980073965,35,8,1950,10.1002/j.1538-7305.1950.tb00463.x,Error Detecting and Error Correcting Codes,4975,R. W. Hamming
+https://openalex.org/W2052690615,4,1,1974,10.1109/tit.1974.1055204,Error exponent for source coding with a fidelity criterion,166,K. Marton
+https://openalex.org/W2018764772,9,1,1968,10.1080/01621459.1968.10480934,Estimates of the Regression Coefficient Based on Kendall's Tau,12451,Pranab Kumar Sen
+https://openalex.org/W2037269865,3,1,1966,10.1007/bf02869528,Estimation of a multivariate density,658,T. Cacoullos
+https://openalex.org/W2052907476,3,1,1967,10.1103/physrev.164.1776,Event Horizons in Static Vacuum Space-Times,1305,W. Israel
+https://openalex.org/W2006690660,44,4,1972,10.2307/1218190,EVOLUTION AND MEASUREMENT OF SPECIES DIVERSITY,5325,R. H. Whittaker
+https://openalex.org/W1514875444,3,1,1973,,Evolutionsstrategie : Optimierung technischer Systeme nach Prinzipien der biologischen Evolution,2466,Ingo Rechenberg
+https://openalex.org/W1987339857,4,1,1953,10.1063/1.1721195,Exact Interpolation of Band-Limited Functions,293,Arthur Kohlenberg
+https://openalex.org/W2016734757,7,1,1970,10.1016/0009-2614(70)85235-6,Expectation values in one- and two-electron atomic systems,43,B. Tsapline
+https://openalex.org/W2115827190,5,3,1968,10.1109/tit.1968.1054129,"Exponential error bounds for erasure, list, and decision feedback schemes",337,G. David Forney
+https://openalex.org/W2007325778,3,1,1969,10.1137/0117120,Extensions of Lagrange Multipliers in Nonlinear Programming,94,F. J. Gould
+https://openalex.org/W1510355813,24,9,1949,10.7551/mitpress/2946.001.0001,"Extrapolation, Interpolation, and Smoothing of Stationary Time Series",4737,Norbert Wiener
+https://openalex.org/W2155018458,4,1,1954,10.1080/00221309.1954.9710109,Familiarity of Letter Sequences and Tachistoscopic Identification,241,George A. Miller; Jerome S. Bruner; Leo Postman
+https://openalex.org/W2035227369,5,1,1969,10.1147/rd.136.0675,Fast Sequential Decoding Algorithm Using a Stack,540,F. Jelinek
+https://openalex.org/W2015658353,7,1,1975,10.1002/j.1538-7305.1975.tb02043.x,Faster-Than-Nyquist Signaling,700,J. E. Mazo
+https://openalex.org/W2068841489,3,1,1965,10.1109/tit.1965.1053772,Fibonacci codes for synchronization control,128,William H. Kautz
+https://openalex.org/W2160646668,5,4,1975,10.1109/tit.1975.1055439,Fixed rate universal block source coding with a fidelity criterion,103,David L. Neuhoff; Robert M. Gray; L. Davisson
+https://openalex.org/W2031320386,6,1,1953,10.1103/physrev.91.1505,Fluctuations and Irreversible Processes,1737,Lars Onsager; Stefan Machlup
+https://openalex.org/W2070600024,3,1,1972,10.1007/bf01023688,Fluctuations around nonequilibrium states in open nonlinear systems,123,G. Nicolis
+https://openalex.org/W2070571923,4,1,1971,10.1073/pnas.68.9.2102,Fluctuations in Nonequilibrium Systems,173,G. Nìcolis; Ilya Prigogine
+https://openalex.org/W2320432931,11,1,1955,10.2307/1929601,Fluctuations of Animal Populations and a Measure of Community Stability,2197,Robert H. MacArthur
+https://openalex.org/W2068431957,3,1,1958,10.1088/0370-1328/72/6/312,Fluctuations of Photon Beams and their Correlations,387,L. Mandeļ
+https://openalex.org/W2025257408,5,1,1959,10.1088/0370-1328/74/3/301,Fluctuations of Photon Beams: The Distribution of the Photo-Electrons,465,L. Mandeļ
+https://openalex.org/W2907233437,7,3,1959,,Fonctions de répartition à N dimensions et leurs marges,4289,Michael Sklar
+https://openalex.org/W2327248386,6,2,1959,10.2307/2309885,Foundations of Information Theory,92,Robert E. Greenwood; Amiel Feinstein
+https://openalex.org/W2045980827,5,1,1975,10.2307/134075,Frontiers in Econometrics,8388,John G. Cragg; Paul Zarembka
+https://openalex.org/W1987449940,4,5,1972,10.1016/0038-1101(72)90103-7,Fundamental limitations in microelectronics—I. MOS technology,364,B. Hoeneisen; Carver Mead
+https://openalex.org/W2051788381,3,3,1960,10.1016/s0019-9958(60)90870-6,Further results on error correcting binary group codes,141,R. C. Bose; D.K. Ray-Chaudhuri
+https://openalex.org/W4211007335,189,6,1965,10.1016/s0019-9958(65)90241-x,Fuzzy sets,65011,L. A. Zadeh
+https://openalex.org/W1978269114,6,2,1971,10.1016/0003-4916(71)90108-4,General state changes in quantum theory,742,K. Kraus
+https://openalex.org/W2098978150,5,1,1956,10.1287/mnsc.2.3.197,General Systems Theory—The Skeleton of Science,2219,Kenneth E. Boulding
+https://openalex.org/W2120981061,3,1,1966,10.1109/tcom.1966.1089288,Generalization of a Techinque for Binary Data Communication,225,E. R. Kretzmer
+https://openalex.org/W2078210981,26,7,1970,10.1016/s0019-9958(70)80040-7,Generalized information functions,493,Zoltán Daróczy
+https://openalex.org/W2161278885,6,1,1965,10.1109/pgec.1965.264137,Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition,2046,Thomas M. Cover
+https://openalex.org/W2053047297,19,1,1965,10.1119/1.1971557,Gibbs vs Boltzmann Entropies,593,E. T. Jaynes
+https://openalex.org/W2065534534,9,1,1972,10.1016/0009-2614(72)85099-1,Graph theory and molecular orbitals. Total φ-electron energy of alternant hydrocarbons,2057,İvan Gutman; Nenad Trinajstić
+https://openalex.org/W2064816908,3,1,1964,10.1103/physrev.136.b1224,Gravitational Radiation and the Motion of Two Point Masses,2244,P. C. Peters
+https://openalex.org/W2076480618,3,1,1963,10.1103/physrev.131.435,Gravitational Radiation from Point Masses in a Keplerian Orbit,1495,P. C. Peters; Jon Mathews
+https://openalex.org/W1997054581,6,1,1931,10.1073/pnas.17.5.315,Hamiltonian Systems and Transformation in Hilbert Space,2235,B. O. Koopman
+https://openalex.org/W2120062331,22,2,1966,10.1119/1.1972842,Handbook of Mathematical Functions,40435,Donald A. McQuarrie
+https://openalex.org/W4300223101,14,1,1965,10.2307/2004114,"Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables",18916,J. W. W.; Milton Abramowitz; Irene A. Stegun
+https://openalex.org/W2092338482,5,15,1970,10.2307/2271166,"Henry E. KyburgJr. , Probability and the logic of rational belief. Wesleyan University Press, Middletown, Conn., 1961, x + 350 pp.",530,Peter Krauss
+https://openalex.org/W2016381774,31,2,1963,10.1080/01621459.1963.10500845,Hierarchical Grouping to Optimize an Objective Function,18862,Joe H. Ward
+https://openalex.org/W2533977282,5,5,1965,10.1109/focs.1965.11,Hierarchies of memory limited computations,357,Richard E. Stearns; Juris Hartmanis; Philip Lewis
+https://openalex.org/W2079656678,37,4,1949,,Human behavior and the principle of least effort,6444,George Kingsley Zipf
+https://openalex.org/W2034597819,8,2,1974,10.1109/tit.1974.1055254,Hypothesis testing and information theory,337,Richard E. Blahut
+https://openalex.org/W2000747741,11,2,1958,10.1063/1.3062338,<i>Foundations of Information Theory</i>,311,Amiel Feinstein; George H. Weiss
+https://openalex.org/W3096151628,7,1,1967,10.1063/1.3034084,<i>Fundamentals of Statistical and Thermal Physics</i>,1437,F. Reif; Stuart A. Rice
+https://openalex.org/W1992649154,71,7,1956,10.1063/1.3059856,<i>Science and Information Theory</i>,1923,Léon Brillouin; R. W. Hellwarth
+https://openalex.org/W2041905826,62,4,1950,10.1063/1.3067010,<i>The Mathematical Theory of Communication</i>,9846,Claude E. Shannon; Warren Weaver; Norbert Wiener
+https://openalex.org/W1965075382,17,1,1958,10.1063/1.3062610,<i>The Principles of Quantum Mechanics</i>,5195,P. A. M. Dirac; J. C. Polkinghorne
+https://openalex.org/W2753533763,10,1,1963,10.1063/1.3050879,<i>The Structure of Scientific Revolutions</i>,35520,Thomas Kühn; Richard Schlegel
+https://openalex.org/W2034274945,14,6,1961,10.1063/1.3057290,<i>Transmission of Information</i>,538,Robert M. Fano; W. T. Wintringham
+https://openalex.org/W2117559445,3,2,1972,10.1109/proc.1972.8782,Image processing in the context of a visual model,500,Thomas G. Stockham
+https://openalex.org/W2904545066,17,1,1961,10.1111/j.2517-6161.1961.tb00404.x,Inaccuracy and Inference,336,D. F. Kerridge
+https://openalex.org/W4252684946,39,3,1945,10.2307/3001968,Individual Comparisons by Ranking Methods,13903,Frank Wilcoxon
+https://openalex.org/W2094654291,31,3,1975,10.2307/1970980,Inequalities in Fourier Analysis,1283,William Beckner
+https://openalex.org/W2007312823,4,2,1975,10.1073/pnas.72.2.638,Inequalities in Fourier Analysis on <i> R <sup>n</sup> </i>,82,William Beckner
+https://openalex.org/W2019781611,5,15,1967,10.1007/bf00485040,Information and inference,123,Isaac Levi
+https://openalex.org/W2797937785,14,3,1964,10.2307/2985711,Information and Information Stability of Random Variables and Processes.,375,David R. Brillinger; M.S. Pinsker; Amiel Feinstein
+https://openalex.org/W4248420721,3,1,1960,10.1364/josa.50.001166,Information Capacity of Radiation Detectors,21,R. Clark Jones
+https://openalex.org/W2122255145,3,1,1962,10.1364/josa.52.001193,Information Capacity of Radiation Detectors II*,19,R. Clark Jones
+https://openalex.org/W2154259526,3,4,1975,10.1093/comjnl/18.2.157,Information compression by factorising common strings,25,Alan J. Mayne
+https://openalex.org/W565145897,12,16,1969,10.7551/mitpress/3769.001.0001,"Information, Mechanism and Meaning",661,D. M. MACKAY
+https://openalex.org/W2001040811,5,14,1971,10.1097/00006324-197110000-00019,Information – Processing Approaches to Visual Perception,193,Ralph Norman Haber
+https://openalex.org/W4252822198,12,11,1969,10.1007/bf00537520,Information radius,226,Robin Sibson
+https://openalex.org/W2095439994,25,1,1960,10.1147/rd.41.0066,Information Theoretical Analysis of Multivariate Correlation,754,Satosi Watanabé
+https://openalex.org/W2049279961,9,7,1971,10.1016/s0019-9958(71)90065-9,Information-theoretical considerations on estimation problems,240,Suguru Arimoto
+https://openalex.org/W2947000318,103,18,1966,,Information Theory,3905,R. Ash
+https://openalex.org/W158805393,73,12,1964,10.2307/2343598,Information Theory and Coding.,1088,I. J. Good; N. Abramson
+https://openalex.org/W1985869490,3,1,1955,10.1364/josa.45.000808,Information Theory and Optical Images,77,E. H. Linfoot
+https://openalex.org/W1989008275,183,65,1969,10.1049/ep.1969.0319,Information Theory and Reliable Communication,3999,David A. Bell
+https://openalex.org/W2032558547,452,32,1957,10.1103/physrev.106.620,Information Theory and Statistical Mechanics,12669,E. T. Jaynes
+https://openalex.org/W4252028749,164,19,1957,10.1103/physrev.108.171,Information Theory and Statistical Mechanics. II,3160,E. T. Jaynes
+https://openalex.org/W2317912355,96,15,1960,10.2307/2309734,Information Theory and Statistics.,1540,Meyer Dwass; S. Kullback
+https://openalex.org/W2061509831,11,2,1961,10.1115/1.3640461,Information Theory as the Basis for Thermostatics and Thermodynamics,91,Myron Tribus
+https://openalex.org/W2987328311,9,3,1954,10.1007/bf02478375,Information theory in biology,134,N. Rashevsky
+https://openalex.org/W2560743082,53,3,1958,,Information theory in ecology,2127,Ramón Margalef
+https://openalex.org/W2075027016,3,1,1958,10.1137/1103031,Information Transmission in a Channel with Feedback,48,R. L. Dobrushin
+https://openalex.org/W3127518054,10,2,1967,,Information-type measures of difference of probability distributions and indirect observation,1353,Imre Csiszár
+https://openalex.org/W2154899385,5,2,1971,10.1109/tit.1971.1054572,Instrumentable tree encoding of information sources (Corresp.),134,F. Jelinek; J. Anderson
+https://openalex.org/W1976755248,4,4,1975,10.1002/mana.19750680109,Intervall‐wertige Mengen,206,K.‐U. Jahn
+https://openalex.org/W2055638143,12,1,1963,10.1149/1.2425756,Introduction to Thermodynamics of Irreversible Processes,2141,Ilya Prigogine; Pierre Van Rysselberghe
+https://openalex.org/W2178225550,51,1,1969,10.2307/1912791,Investigating Causal Relations by Econometric Models and Cross-spectral Methods,22449,Clive W. J. Granger
+https://openalex.org/W4233798822,69,12,1961,10.1147/rd.53.0183,Irreversibility and Heat Generation in the Computing Process,4677,Rolf Landauer
+https://openalex.org/W1966129247,7,11,1963,10.1093/analys/23.6.121,Is Justified True Belief Knowledge?,2910,Edmund L. Gettier
+https://openalex.org/W2993330478,6,1,1933,10.1098/rsta.1933.0009,IX. On the problem of the most efficient tests of statistical hypotheses,2258,Jerzy Neyman; Egon S. Pearson
+https://openalex.org/W2034327144,4,1,1971,10.1007/bf01008275,Jaynes's maximum entropy prescription and probability theory,104,KENNETH S. FRIEDMAN; Abner Shimony
+https://openalex.org/W4292157289,18,1,1974,10.1126/science.185.4157.1124,Judgment under Uncertainty: Heuristics and Biases,27314,Amos Tversky; Daniel Kahneman
+https://openalex.org/W1985797529,5,1,1938,10.1002/andp.19384240109,Künstliche Grenzbedingungen beim Keplerproblem,269,A. Sommerfeld; H. Welker
+https://openalex.org/W2054416947,3,1,1967,10.1016/0022-247x(67)90189-8,L-fuzzy sets,2427,Joseph A. Goguen
+https://openalex.org/W3005278268,6,12,1964,,Language and Information,445,Yehoshua Bar‐Hillel
+https://openalex.org/W1996484504,4,1,1965,10.2307/411791,Language and Information: Selected Essays on Their Theory and Application,225,Punya Sloka Ray; Yehoshua Bar‐Hillel
+https://openalex.org/W1996223396,18,3,1955,10.1007/bf02477860,"Life, information theory, and topology",431,N. Rashevsky
+https://openalex.org/W2013346974,3,2,1972,10.1016/0038-1101(72)90026-3,Limitations in microelectronics — II. Bipolar technology,61,B. Hoeneisen; Carver Mead
+https://openalex.org/W1966264494,10,8,1975,10.1109/proc.1975.9792,Linear prediction: A tutorial review,4001,J. Makhoul
+https://openalex.org/W2015775929,5,1,1972,10.1016/0034-4877(72)90011-0,Linear transformations which preserve trace and positive semidefiniteness of operators,1497,Andrzej Jamiołkowski
+https://openalex.org/W1533375765,3,1,1972,10.1525/9780520325883-012,LOCAL ASYMPTOTIC MINIMAX AND ADMISSIBILITY IN ESTIMATION,273,Jaroslav Hájek
+https://openalex.org/W2264742718,17,2,1975,10.1163/9789004368811_003,Logic and Conversation,20244,H. P. Grice
+https://openalex.org/W1978909760,12,5,1968,10.1109/tit.1968.1054210,Logical basis for information theory and probability theory,601,A. N. Kolmogorov
+https://openalex.org/W2105259569,26,2,1973,10.1147/rd.176.0525,Logical Reversibility of Computation,3661,C. H. Bennett
+https://openalex.org/W2128765501,88,10,1962,10.1109/tit.1962.1057683,Low-density parity-check codes,10476,Robert G. Gallager
+https://openalex.org/W3190595840,15,7,1967,10.1016/s0019-9958(67)90052-6,Lower bounds to error probability for coding on discrete memoryless channels. I,365,Claude E. Shannon; Robert G. Gallager; Elwyn R. Berlekamp
+https://openalex.org/W2005530146,9,3,1967,10.1016/s0019-9958(67)91200-4,Lower bounds to error probability for coding on discrete memoryless channels. II,393,Claude E. Shannon; Robert G. Gallager; Elwyn R. Berlekamp
+https://openalex.org/W2067564219,9,1,1968,10.1086/282541,Marine Benthic Diversity: A Comparative Study,2432,Howard L. Sanders
+https://openalex.org/W2079153216,6,2,1952,10.1063/1.1700722,Markoff Random Processes and the Statistical Mechanics of Time-Dependent Phenomena,712,Melville S. Green
+https://openalex.org/W1668732012,4,2,1954,10.1063/1.1740082,Markoff Random Processes and the Statistical Mechanics of Time-Dependent Phenomena. II. Irreversible Processes in Fluids,1753,Melville S. Green
+https://openalex.org/W2051657238,5,1,1963,10.1143/jpsj.18.328,Markov Processes and the <i>H</i>-Theorem,209,Tetsuzō Morimoto
+https://openalex.org/W2087171258,62,11,1959,10.2307/2310044,Mathematical Foundations of Information Theory.,1476,J. Laurie Snell; Aleksandr I︠A︡kovlevich Khinchin; Ray Silverman; Matthew Friedman
+https://openalex.org/W2315127070,26,3,1955,10.1016/0016-0032(55)90752-3,Mathematical foundations of quantum mechanics,2910,Elmer L. Offenbacher
+https://openalex.org/W2134316164,4,2,1966,10.2307/2003526,Mathematical Theory of Connecting Networks and Telephone Traffic,819,Albert A. Mullin; Vladimír Beneš
+https://openalex.org/W2050687505,6,4,1964,10.1109/tit.1964.1053661,Maximum distanceq-nary codes,518,R. C. Singleton
+https://openalex.org/W2089611415,15,4,1963,10.1214/aoms/1177704014,"Maximum Entropy for Hypothesis Formulation, Especially for Multidimensional Contingency Tables",402,I. J. Good
+https://openalex.org/W1496923911,20,3,1967,,Maximum entropy spectral analysis,1940,John P. Burg
+https://openalex.org/W2131086249,7,1,1972,10.1109/tit.1972.1054829,Maximum-likelihood sequence estimation of digital sequences in the presence of intersymbol interference,2459,G. David Forney
+https://openalex.org/W2087189381,401,12,1949,10.1038/163688a0,Measurement of Diversity,13674,Edward Simpson
+https://openalex.org/W576999209,4,1,1970,10.1184/r1/6478379,Measures of uncertainty mathematical programming and physics,15,J. N. Kapur
+https://openalex.org/W1985135818,3,1,1974,10.1007/bf02644109,Mechanism of steady-state grain growth in aluminum,217,F. N. Rhines; Kenneth R. Craig; Ryan Dehoff
+https://openalex.org/W2084333107,6,3,1961,10.1103/physrev.124.983,Memory Effects in Irreversible Thermodynamics,1273,Robert Zwanzig
+https://openalex.org/W2059880626,3,2,1971,10.1063/1.1660540,Minimal Energy Dissipation and Maximal Error for the Computational Process,36,Rolf Landauer; James W. F. Woo
+https://openalex.org/W2161349501,5,2,1970,10.1147/rd.142.0152,Minimal Energy Dissipation in Logic,265,Robert W. Keyes; Rolf Landauer
+https://openalex.org/W2126590220,7,2,1961,10.1109/tit.1961.1057615,Minimum-redundancy coding for the discrete noiseless channel,134,Richard M. Karp
+https://openalex.org/W2138309709,17,1,1970,10.1093/biomet/57.1.97,Monte Carlo sampling methods using Markov chains and their applications,14913,W. Keith Hastings
+https://openalex.org/W2018259456,9,1,1972,10.1126/science.177.4047.393,More Is Different,3698,Philip W. Anderson
+https://openalex.org/W2492979475,8,1,1972,,More Is Different: Broken symmetry and the nature of the hierarchical structure of science.,1654,Philip W. Anderson
+https://openalex.org/W1592482298,12,8,1973,,Multi-way communication channels,613,Rudolf Ahlswede
+https://openalex.org/W3173652044,4,1,1972,,Multiple Access Channels.,386,Henry Herng-Jiunn Liao
+https://openalex.org/W2887002214,38,3,1954,10.1007/bf02289159,Multivariate Information Transmission,720,W. J. McGill
+https://openalex.org/W2141367839,6,1,1946,10.2307/1052282,National Power and the Structure of Foreign Trade,1257,Henry Oliver; Albert O. Hirschman
+https://openalex.org/W2329283878,5,2,1946,10.2307/2144611,"National Power and the Structure of Foreign Trade, <i>by Albert O. Hirschman</i>",742,Michael T. Florinsky
+https://openalex.org/W2020922790,5,1,1922,10.1073/pnas.8.6.151,Natural Selection as a Physical Principle,401,Alfred J. Lotka
+https://openalex.org/W1587606825,4,1,1966,,New Horizons in Psychology 1,1161,Brian Foss
+https://openalex.org/W2083402998,4,1,1961,10.1115/1.3658902,New Results in Linear Filtering and Prediction Theory,6276,R. E. Kalman; R. S. Bucy
+https://openalex.org/W2099213070,36,19,1973,10.1109/tit.1973.1055037,Noiseless coding of correlated information sources,3975,D. Slepian; J.K. Wolf
+https://openalex.org/W1968693394,5,3,1975,10.1214/aop/1176996354,Nonblock Source Coding with a Fidelity Criterion,42,Robert M. Gray; David L. Neuhoff; Donald Ornstein
+https://openalex.org/W2036749014,3,2,1961,10.1063/1.1706219,Nonlinear Effects in Transport Theory,80,James A. McLennan
+https://openalex.org/W1973192023,10,1,1964,10.1007/bf02289694,Nonmetric Multidimensional Scaling: A Numerical Method,4820,Joseph B. Kruskal
+https://openalex.org/W2336695636,6,4,1954,10.1093/oxfordjournals.aob.a083381,Notes on Contagious Distributions in Plant Populations,225,F. N. David; P. G. Moore
+https://openalex.org/W3119473442,6,1,1949,,Notes on digital coding,353,Marcel J. E. Golay
+https://openalex.org/W2318363093,3,1,1967,10.4153/cjm-1967-017-0,Notes on Sphere Packings,179,John Leech
+https://openalex.org/W2083774980,15,7,1960,10.1016/s0019-9958(60)90287-4,On a class of error correcting binary group codes,1302,R. C. Bose; D.K. Ray-Chaudhuri
+https://openalex.org/W2036671379,6,1,1955,10.1093/biomet/42.3-4.425,ON A CLASS OF SKEW DISTRIBUTION FUNCTIONS,2470,Herbert A. Simon
+https://openalex.org/W2076580309,40,5,1956,10.1214/aoms/1177728069,On a Measure of the Information Provided by an Experiment,1492,D. V. Lindley
+https://openalex.org/W2084790527,4,2,1974,10.1109/t-c.1974.223779,On a New Class of Bounds on Bayes Risk in Multihypothesis Pattern Recognition,72,Pierre A. Devijver
+https://openalex.org/W1972978214,12,3,1947,10.1214/aoms/1177730491,On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other,13448,H. B. Mann; Douglas R. Whitney
+https://openalex.org/W2048463265,16,1,1961,10.2307/1932254,On Bird Species Diversity,3554,Robert H. MacArthur; John W. MacArthur
+https://openalex.org/W2050850659,3,1,1959,10.1147/rd.32.0163,On Codes for Checking Logical Operations,39,W. W. Peterson; M. O. Rabin
+https://openalex.org/W2126160338,29,2,1937,10.1112/plms/s2-42.1.230,"On Computable Numbers, with an Application to the Entscheidungsproblem",8016,Alan Turing
+https://openalex.org/W2022731279,4,1,1938,10.1112/plms/s2-43.6.544,"On Computable Numbers, with an Application to the Entscheidungsproblem. A Correction",584,Alan Turing
+https://openalex.org/W2314522547,9,3,1961,10.2307/2257261,On E. C. Pielou's Index of Non-Randomness,57,M. D. Mountford
+https://openalex.org/W2118020555,33,4,1962,10.1214/aoms/1177704472,On Estimation of a Probability Density Function and Mode,10363,Emanuel Parzen
+https://openalex.org/W1965555277,337,17,1951,10.1214/aoms/1177729694,On Information and Sufficiency,19525,S. Kullback; R. A. Leibler
+https://openalex.org/W2122882636,134,12,1961,,On Measures of Entropy and Information,3952,A. Rényi
+https://openalex.org/W2139242438,4,1,1956,10.1109/tct.1956.1086325,On Nonuniform Sampling of Bandwidth-Limited Signals,515,J. L. Yen
+https://openalex.org/W2170862660,4,5,1975,10.1137/0128010,On Sequences of Pairs of Dependent Random Variables,324,H. S. Witsenhausen
+https://openalex.org/W2084360170,9,3,1975,10.1109/tit.1975.1055374,On source coding with side information at the decoder,376,A.D. Wyner
+https://openalex.org/W2069652725,5,4,1969,10.1016/s0019-9958(69)90395-7,On synchronous variable length coding for discrete noiseless chrannels,55,P. A. Franaszek
+https://openalex.org/W2041593472,10,1,1955,10.1098/rsta.1955.0001,On the assessment of optical images,188,Peter Fellgett; E. H. Linfoot
+https://openalex.org/W2141262522,6,2,1972,10.1109/tit.1972.1054924,On the asymptotic eigenvalue distribution of Toeplitz matrices,522,Robert M. Gray
+https://openalex.org/W2025773142,3,1,1967,10.1016/s0019-9958(67)90610-9,On the Bhattacharyya distance and the divergence between Gaussian processes,37,Fred C. Schweppe
+https://openalex.org/W932708889,4,1,1878,10.1061/taceat.0000315,On the Cause of the Maximum Velocity of Water Flowing in Open Channels being below the Surface,44,James B. Francis
+https://openalex.org/W2063002186,3,2,1974,10.1109/tit.1974.1055146,On the computation of rate-distortion functions (Corresp.),82,Imre Csiszár
+https://openalex.org/W2125495920,5,4,1965,10.1090/s0002-9947-1965-0170805-7,On the computational complexity of algorithms,956,Juris Hartmanis; Richard E. Stearns
+https://openalex.org/W2000446566,9,2,1973,10.1109/tit.1973.1055007,On the converse to the coding theorem for discrete memoryless channels (Corresp.),214,S. Arimoto
+https://openalex.org/W2252571820,5,1,1883,10.1061/taceat.0000467,"On the Current-Meter, Together with a Reason Why the Maximum Velocity of Water Flowing in Open Channels is below the Surface",48,Frederic P. Stearns
+https://openalex.org/W1975892318,8,1,1964,10.1002/bs.3830090402,On the decrease of entropy in a thermodynamic system by the intervention of intelligent beings,423,Leo Szilard
+https://openalex.org/W2005914283,12,2,1959,10.1007/bf02063299,On the dimension and entropy of probability distributions,400,A. Rényi
+https://openalex.org/W2135830616,24,4,1964,10.1103/physicsphysiquefizika.1.195,On the Einstein Podolsky Rosen paradox,11857,J. S. Bell
+https://openalex.org/W2051317694,5,1,1970,10.1086/224909,On the Estimation of Relationships Involving Qualitative Variables,375,Henri Theil
+https://openalex.org/W2066865129,5,1,1949,10.1214/aoms/1177729949,On the Estimation of the Number of Classes in a Population,170,Leo A. Goodman
+https://openalex.org/W2154462988,37,5,1969,10.1145/321495.321506,On the Length of Programs for Computing Finite Binary Sequences,911,Gregory J. Chaitin
+https://openalex.org/W2084840427,22,1,1922,10.1098/rsta.1922.0009,On the mathematical foundations of theoretical statistics,3970,Ronald Aylmer Fisher
+https://openalex.org/W2332237006,13,1,1954,10.4992/jjpsy.25.110,ON THE MATHEMATICAL THEORY OF COMMUNICATION,1660,Yoichiro Takada
+https://openalex.org/W1975503357,6,1,1970,10.1016/0022-0531(70)90039-6,On the measurement of inequality,6316,Anthony B. Atkinson
+https://openalex.org/W2040623864,5,1,1963,10.1145/321150.321157,On the Numerical Solution of Fredholm Integral Equations of the First Kind by the Inversion of the Linear System Produced by Quadrature,959,S. Twomey
+https://openalex.org/W2065192689,5,3,1966,10.1103/revmodphys.38.447,On the Problem of Hidden Variables in Quantum Mechanics,2765,John S. Bell
+https://openalex.org/W3165898261,26,3,1932,10.1103/physrev.40.749,On the Quantum Correction For Thermodynamic Equilibrium,8992,E. P. Wigner
+https://openalex.org/W1990242729,12,2,1952,10.1080/17470215208416600,On the Rate of Gain of Information,2219,W. E. Hick
+https://openalex.org/W2056947791,6,1,1957,10.1073/pnas.43.3.293,ON THE RELATIVE ABUNDANCE OF BIRD SPECIES,1187,Robert H. MacArthur
+https://openalex.org/W2249970638,11,6,1965,10.1002/j.1538-7305.1965.tb01684.x,On the Simultaneous Measurement of a Pair of Conjugate Observables,472,E. Arthurs; J. L. Kelly
+https://openalex.org/W2042993834,7,1,1970,10.1109/tit.1970.1054545,On the weight structure of Reed-Muller codes,115,Tadao Kasami; N. Tokura
+https://openalex.org/W1990234127,3,1,1970,10.1007/bf01646620,Operations and measurements. II,140,K. -E. Hellwig; K. Kraus
+https://openalex.org/W4256678743,3,1,1966,10.1364/josa.56.001463,Optical Systems with Resolving Powers Exceeding the Classical Limit*,361,W. Lukosz
+https://openalex.org/W1978626934,4,1,1967,10.1364/josa.57.000932,Optical Systems with Resolving Powers Exceeding the Classical Limit II,329,W. Lukosz
+https://openalex.org/W1984386576,4,1,1967,10.1109/tit.1967.1054048,Optimal binary sequences for spread spectrum multiplexing (Corresp.),833,Robert Gold
+https://openalex.org/W1562979145,13,2,1974,,Optimal decoding of linear codes for minimizing symbol error rate,4675,L.R. Bahl
+https://openalex.org/W2045407304,27,6,1974,10.1109/tit.1974.1055186,Optimal decoding of linear codes for minimizing symbol error rate (Corresp.),5133,L.R. Bahl; John Cocke; F. Jelinek; J. Raviv
+https://openalex.org/W2114700786,4,1,1975,,Optimal Source Codes for Geometrically Distributed Integer Alphabets,189,Robert G. Gallager; David C. Van Voorhis
+https://openalex.org/W2030442875,5,1,1975,10.1109/tit.1975.1055357,Optimal source codes for geometrically distributed integer alphabets (Corresp.),232,Robert G. Gallager; D. van Voorhis
+https://openalex.org/W2797328151,11,1,1971,10.2307/2346640,Optimal Statistical Decisions.,1834,D. V. Lindley; Morris de Groot
+https://openalex.org/W1995000717,5,3,1971,10.1016/s0019-9958(71)90155-0,Optimal variable length codes (arbitrary symbol cost and equal code word probability),71,Ben Varn
+https://openalex.org/W2071238091,6,1,1974,10.1109/tcom.1974.1092061,Optimization of Two-Dimensional Signal Constellations in the Presence of Gaussian Noise,330,G.J. Foschini; Richard D. Gitlin; Stephen B. Weinstein
+https://openalex.org/W2056670857,9,3,1964,10.1016/s0019-9958(64)90486-3,Optimum block codes for noiseless input restricted channels,60,C. Freiman; A.D. Wyner
+https://openalex.org/W2156310455,5,1,1972,10.1109/tit.1972.1054906,Optimum quantizers and permutation codes,140,Thomas Berger
+https://openalex.org/W2099382096,7,1,1975,10.1109/tit.1975.1055351,Optimum testing of multiple hypotheses in quantum detection theory,494,Horace P. Yuen; Robert Kennedy; M. Lax
+https://openalex.org/W1995404280,4,1,1969,10.1103/physrev.177.1857,Ordered Expansions in Boson Amplitude Operators,1102,Kévin Cahill; Roy J. Glauber
+https://openalex.org/W3038165843,3,1,1971,10.1016/c2013-0-02379-1,Orthogonal Polynomials,8655,Barry Simon
+https://openalex.org/W2090386790,7,1,1975,10.1007/bf02345020,Particle creation by black holes,12247,S. W. Hawking
+https://openalex.org/W2318218960,5,10,1974,10.2307/1422031,"Pattern Recognition, Learning, and Thought",93,Paul M. Wortman; Leonard Uhr
+https://openalex.org/W2027053193,4,1,1957,10.1063/1.1743957,Phase Transition for a Hard Sphere System,2528,B. J. Alder; T. E. Wainwright
+https://openalex.org/W4233369467,4,1,1963,10.1103/physrevlett.10.84,Photon Correlations,1252,Roy J. Glauber
+https://openalex.org/W1970462492,6,2,1975,10.1109/proc.1975.9825,Physical limits in digital electronics,300,Robert W. Keyes
+https://openalex.org/W2070888091,4,1,1969,10.1109/mspec.1969.5213809,Physical problems and limits in computer logic,58,Robert W. Keyes
+https://openalex.org/W2012614910,7,2,1965,10.1007/bf00274090,Physikalische und biologische Grenzen der Informationsübermittlung,31,H. Marko
+https://openalex.org/W2148575324,20,5,1960,10.1137/0108018,Polynomial Codes Over Certain Finite Fields,3514,I.S. Reed; G. Solomon
+https://openalex.org/W4232474910,3,1,1952,10.1111/j.1540-6261.1952.tb01525.x,PORTFOLIO SELECTION*,5159,Harry M. Markowitz
+https://openalex.org/W2079145130,63,5,1951,10.1002/j.1538-7305.1951.tb01366.x,Prediction and Entropy of Printed English,2656,Claude E. Shannon
+https://openalex.org/W2124018923,5,1,1955,10.1109/tit.1955.1055116,Predictive coding--II,91,Peter Eliaš
+https://openalex.org/W2026534382,3,1,1957,10.1063/1.1743956,Preliminary Results from a Recalculation of the Monte Carlo Equation of State of Hard Spheres,592,William W. Wood; Shoubaneh Hemmati
+https://openalex.org/W2041408946,9,1,1972,10.1016/0022-1694(72)90003-0,Principle of maximum entropy in hydrologic frequency analysis,70,J.O. Sonuga
+https://openalex.org/W1577906631,21,5,1965,,Principles of Communication Engineering,1920,I. M. Jacobs; John M. Wozencraft
+https://openalex.org/W1515682093,8,1,1968,,Principles of data communication,755,Robert W. Lucky; E J Weldon; J. Salz
+https://openalex.org/W3045215625,25,3,1967,,Principles of Statistical Mechanics,387,Amnon Katz
+https://openalex.org/W562957111,9,2,1967,,Principles of statistical mechanics : the information theory approach,250,Amnon Katz
+https://openalex.org/W2294604761,35,10,1968,10.1109/tssc.1968.300117,Prior Probabilities,1117,E. T. Jaynes
+https://openalex.org/W2497735908,9,3,1956,,Probabilistic Logic and the Synthesis of Reliable Organisms from Unreliable Components,1666,John von Neumann
+https://openalex.org/W3182208082,10,3,1956,10.1515/9781400882618-003,Probabilistic Logics and the Synthesis of Reliable Organisms From Unreliable Components,1431,Jennifer Neumann
+https://openalex.org/W3015462599,11,5,1950,10.2307/2981046,Probability and the Weighing of Evidence.,758,P. A. M.; I. J. Good
+https://openalex.org/W2025130480,20,3,1946,10.1119/1.1990764,"Probability, Frequency and Reasonable Expectation",1295,R. T. Cox
+https://openalex.org/W2038190934,42,4,1968,10.1016/0022-247x(68)90078-4,Probability measures of Fuzzy events,2520,Lotfi A. Zadeh
+https://openalex.org/W2129000925,6,3,1970,10.1109/tit.1970.1054466,"Probability of error, equivocation, and the Chernoff bound",321,Martin E. Hellman; J. Raviv
+https://openalex.org/W2044180609,18,3,1959,10.1002/j.1538-7305.1959.tb03905.x,Probability of Error for Optimal Codes in a Gaussian Channel,805,Claude E. Shannon
+https://openalex.org/W2428744957,6,4,1948,,"Probability, rarity, interest, and surprise.",80,Warren Weaver
+https://openalex.org/W2162753709,4,1,1936,10.1017/s0305004100019137,Probability relations between separated systems,962,Erwin Schrödinger
+https://openalex.org/W1980808677,4,2,1961,10.1016/0038-1101(61)90054-5,Problems related to p-n junctions in silicon,916,W. Shockley
+https://openalex.org/W2028125409,9,1,1963,10.1080/00401706.1963.10490087,Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability,1186,M. S. Bartlett
+https://openalex.org/W2015690376,4,2,1972,10.1016/0020-0271(72)90024-1,Program design for retrospective searches on large data bases,43,L.H. Thiel; H. S. Heaps
+https://openalex.org/W2067111814,12,3,1961,10.1002/j.1538-7305.1961.tb03976.x,"Prolate Spheroidal Wave Functions, Fourier Analysis and Uncertainty - I",2463,D. Slepian; H. O. Pollak
+https://openalex.org/W4240906956,7,3,1961,10.1002/j.1538-7305.1961.tb03977.x,"Prolate Spheroidal Wave Functions, Fourier Analysis and Uncertainty - II",796,H. J. Landau; H. O. Pollak
+https://openalex.org/W2088801740,6,3,1962,10.1002/j.1538-7305.1962.tb03279.x,"Prolate Spheroidal Wave Functions, Fourier Analysis and Uncertainty-III: The Dimension of the Space of Essentially Time- and Band-Limited Signals",825,H. J. Landau; H. O. Pollak
+https://openalex.org/W2006025109,4,3,1964,10.1002/j.1538-7305.1964.tb01037.x,"Prolate Spheroidal Wave Functions, Fourier Analysis and Uncertainty - IV: Extensions to Many Dimensions; Generalized Prolate Spheroidal Functions",752,D. Slepian
+https://openalex.org/W2105918132,17,2,1973,10.1063/1.1666274,Proof of the strong subadditivity of quantum-mechanical entropy,860,Élliott H. Lieb; Mary Beth Ruskai
+https://openalex.org/W2145404061,6,1,1964,10.1109/tit.1964.1053707,Properties of an optimum digital system and applications,58,Terrence L. Fine
+https://openalex.org/W2028815089,20,4,1969,10.1103/physrevlett.23.880,Proposed Experiment to Test Local Hidden-Variable Theories,7320,John F. Clauser; Michael Horne; Abner Shimony; R.A. Holt
+https://openalex.org/W2263958071,43,9,1967,,Quantification method of classification processes. Concept of structural $a$-entropy,840,Jan Havrda; František Charvát
+https://openalex.org/W2159136592,6,1,1926,10.1002/andp.19263840404,Quantisierung als Eigenwertproblem,2175,Erwin Schrödinger
+https://openalex.org/W2068071220,6,1,1951,10.1109/jrproc.1951.230419,Quantization Distortion in Pulse-Count Modulation with Nonuniform Spacing of Levels,226,P. F. Panter; W. Dite
+https://openalex.org/W1986343971,4,2,1975,10.1109/tassp.1975.1162675,Quantization properties of transmission parameters in linear predictive systems,231,R. Viswanathan; J. Makhoul
+https://openalex.org/W2109808436,25,1,1960,10.1109/tit.1960.1057548,Quantizing for minimum distortion,2051,J. Max
+https://openalex.org/W2051869207,26,3,1969,10.1007/bf01007479,Quantum detection and estimation theory,3706,Carl W. Helstrom
+https://openalex.org/W2030991083,14,7,1962,10.1109/jrproc.1962.288169,Quantum Effects in Communications Systems,192,James Gordon
+https://openalex.org/W1987387939,3,1,1968,10.1109/tit.1968.1054095,Quantum electrodynamics of a communication channel,10,C. Y. She
+https://openalex.org/W2076332305,6,1,1961,10.1103/physrev.124.1646,Quantum Fluctuations and Noise in Parametric Processes. I.,707,W. H. Louisell; A. Yariv; A. E. Siegman
+https://openalex.org/W4247755943,3,1,1963,10.1103/physrev.129.481,Quantum Fluctuations and Noise in Parametric Processes. II,140,J. P. Gordon; W. H. Louisell; L. R. Walker
+https://openalex.org/W1994094769,3,4,1962,10.1103/physrev.128.2407,Quantum Noise in Linear Amplifiers,311,H. A. Haus; James A. Mullen
+https://openalex.org/W2050432202,3,1,1963,10.1103/physrev.130.806,Quantum Statistics of Masers and Attenuators,125,J. P. Gordon; L. R. Walker; W. H. Louisell
+https://openalex.org/W1581917596,3,1,1967,,Radar Signals: An Introduction to Theory and Application,671,Charles E. Cook; Marvin Bernfeld
+https://openalex.org/W2094458162,8,4,1973,10.1109/tit.1973.1054980,Random coding theorem for broadcast channels with degraded components,513,P. Bergmans
+https://openalex.org/W2323834113,18,1,1973,10.2307/1402637,Rank Correlation Methods,4075,P. A. P. Moran; M. G. Kendall
+https://openalex.org/W1990992471,26,6,1972,10.1109/tcom.1972.1091311,Rate Distortion Theory: A Mathematical Basis for Data Compression,891,L. Davisson
+https://openalex.org/W1989388297,10,2,1956,10.1037/h0042769,Rational choice and the structure of the environment.,5782,H. A. Simon
+https://openalex.org/W2090627896,3,1,1963,10.1007/bf02759719,Real time computation,127,Michael O. Rabin
+https://openalex.org/W2168723754,4,3,1962,10.1109/tec.1962.5219459,Real-Time Computation and Recursive Functions Not Real-Time Computable,88,Hisao Yamada
+https://openalex.org/W1997480541,3,1,1968,10.1080/14640746808400161,Reasoning about a Rule,1389,P. C. Wason
+https://openalex.org/W2088214533,8,5,1974,10.1109/tit.1974.1055171,Recent results in the Shannon theory,635,A.D. Wyner
+https://openalex.org/W4256451422,3,1,1975,10.1002/fedr.4910860506,"Rechenberg, Ingo, Evolutionsstrategie — Optimierung technischer Systeme nach Prinzipien der biologischen Evolution. 170 S. mit 36 Abb. Frommann-Holzboog-Verlag. Stuttgart 1973. Broschiert",1132,W. Vent
+https://openalex.org/W4244360209,9,1,1931,10.1103/physrev.37.405,Reciprocal Relations in Irreversible Processes. I.,6415,Lars Onsager
+https://openalex.org/W2002116790,8,1,1931,10.1103/physrev.38.2265,Reciprocal Relations in Irreversible Processes. II.,5249,Lars Onsager
+https://openalex.org/W1970961429,3,2,1967,10.1016/s0019-9958(67)80007-x,Recognition and parsing of context-free languages in time n3,947,D. H. Younger
+https://openalex.org/W2031891626,3,1,1974,10.1016/0022-247x(74)90176-0,Recurrence relations based on minimization,37,Michael L. Fredman; Donald E. Knuth
+https://openalex.org/W2007626175,3,1,1971,10.1112/blms/3.2.176,Relating Topological Entropy and Measure Entropy,254,T. N. T. Goodman
+https://openalex.org/W2025341678,8,1,1936,10.1093/biomet/28.3-4.321,RELATIONS BETWEEN TWO SETS OF VARIATES,5367,Harold Hotelling
+https://openalex.org/W1982129592,6,4,1970,10.1016/s0022-0000(70)80006-x,Relationships between nondeterministic and deterministic tape complexities,1353,Walter J. Savitch
+https://openalex.org/W2055993996,7,1,1957,10.1103/revmodphys.29.454,"""Relative State"" Formulation of Quantum Mechanics",3277,Hugh Everett
+https://openalex.org/W2033565186,10,1,1937,10.1016/s0031-8914(37)80196-2,Remarks concerning molecural interaction and their influence on the polarisability,432,Andreas Michels; Jan de Boer; A.N. van der Bijl
+https://openalex.org/W1995565517,4,1,1952,10.1214/aoms/1177729394,Remarks on a Multivariate Transformation,2816,Murray Rosenblatt
+https://openalex.org/W2014268383,9,1,1956,10.1214/aoms/1177728190,Remarks on Some Nonparametric Estimates of a Density Function,4472,Murray Rosenblatt
+https://openalex.org/W1967730460,3,1,1969,10.1364/josa.59.000157,"Resolution, Optical-Channel Capacity and Information Theory*",33,N.J. Bershad
+https://openalex.org/W2081808367,4,2,1968,10.1364/josa.58.000539,"Restoration, Resolution, and Noise",183,C.K. Rushforth; Richard W. Harris
+https://openalex.org/W2078403926,13,1,1972,10.1364/josa.62.000511,Restoring with Maximum Likelihood and Maximum Entropy*,637,B. Roy Frieden
+https://openalex.org/W1624531027,11,1,1974,10.1016/s0092-640x(74)80016-1,Roothaan-Hartree-Fock atomic wavefunctions,5508,E. Clementi; C. Roetti
+https://openalex.org/W788498898,6,2,1966,,Run-length encodings.,676,Solomon W. Golomb
+https://openalex.org/W2115613939,9,2,1966,10.1109/tit.1966.1053907,Run-length encodings (Corresp.),959,Solomon W. Golomb
+https://openalex.org/W2596773272,38,6,1956,10.1016/0016-0032(56)90094-1,Science and information theory,1516,S. Charp
+https://openalex.org/W2030297824,5,14,1971,10.2307/2217582,Seeing and Knowing.,383,Les Holborow; Fred Dretske
+https://openalex.org/W2002855154,4,4,1973,10.1016/0020-0271(73)90011-9,Selection of equifrequent word fragments for information retrieval,38,Ernst J. Schuegraf; H. S. Heaps
+https://openalex.org/W2141330153,3,1,1966,10.1109/proc.1966.5275,Self-checked computation using residue arithmetic,134,R.W. Watson; Charles W. Hastings
+https://openalex.org/W2230728100,26,5,1965,10.1103/physrev.140.a1133,Self-Consistent Equations Including Exchange and Correlation Effects,61878,W. Kohn; L. J. Sham
+https://openalex.org/W2254147684,6,10,1974,,Semantics and Philosophy,734,Peter Unger; Milton K. Munitz
+https://openalex.org/W2170773451,5,3,1968,10.1002/j.1538-7305.1968.tb00034.x,Sequence-State Coding for Digital Transmission,151,P. A. Franaszek
+https://openalex.org/W2017087381,11,5,1970,10.1147/rd.144.0376,Sequence-state Methods for Run-length-limited Coding,145,P. A. Franaszek
+https://openalex.org/W2061192159,5,1,1966,10.1109/proc.1966.5167,Sequence time coding for data compression,76,T. J. Lynch
+https://openalex.org/W1496151908,6,3,1957,,Sequential decoding for reliable communication,143,John M. Wozencraft
+https://openalex.org/W1527096151,5,2,1960,,Sequential encoding and decoding for the discrete memoryless channel,23,B. Reiffen
+https://openalex.org/W2162442687,13,6,1969,10.1109/tit.1969.1054260,Shift-register synthesis and BCH decoding,2160,J. Massey
+https://openalex.org/W2063114375,5,11,1961,10.1002/j.1538-7305.1961.tb03987.x,Short-Term Memory in Vision,874,Emanuel Averbach; A. S. Coriell
+https://openalex.org/W1784695092,15,1,1966,,Signal detection theory and psychophysics,9998,David Marvin Green; John A. Swets
+https://openalex.org/W2010340317,5,1,1969,10.1016/s0019-9958(69)90084-9,Simple proofs of some theorems on noiseless channels,40,Imre Csiszár
+https://openalex.org/W3190451510,5,2,1959,10.1007/bf00281397,Simultaneous channels,141,J. Wolfowitz
+https://openalex.org/W2026439302,7,1,1975,10.1109/tit.1975.1055422,Sliding-block source coding,95,Robert M. Gray
+https://openalex.org/W1591122409,5,4,1975,10.1016/b978-0-12-010904-3.50011-7,Some Advances in Broadcast Channels,126,Thomas M. Cover
+https://openalex.org/W2312217865,5,1,1957,10.2307/1419346,Some Effects of Intermittent Silence,322,George A. Miller
+https://openalex.org/W2138044317,3,1,1964,10.1080/02626666409493650,SOME IMPLICATIONS OF STATISTICAL MECHANICS IN GEOMORPHOLOGY,23,Adrian E. Scheidegger
+https://openalex.org/W2043371182,32,3,1959,10.1016/s0019-9958(59)90348-1,Some inequalities satisfied by the quantities of information of Fisher and Shannon,686,A. J. Stam
+https://openalex.org/W1982973748,10,3,1955,10.1007/bf02477985,Some order-disorder considerations in living systems,144,Harold J. Morowitz
+https://openalex.org/W2135298923,5,4,1960,10.1109/tit.1960.1057578,Some quantum effects in information channels,57,Thomas Stern
+https://openalex.org/W1992199636,4,2,1974,10.1016/0026-0800(74)90004-4,Some remarks on the arrangement of grains in a polycrystal,238,D. Weaire
+https://openalex.org/W2152361816,3,2,1961,10.1109/tec.1961.5219230,Some Thoughts on Digital Components and Circuit Techniques,16,Arthur W. Lo
+https://openalex.org/W2115468292,4,4,1974,10.1109/tit.1974.1055248,Source coding theorems without the ergodic assumption,73,Robert M. Gray; L. Davisson
+https://openalex.org/W2127768309,10,7,1975,10.1109/tit.1975.1055469,Source coding with side information and a converse for degraded broadcast channels,447,Rudolf Ahlswede; János Körner
+https://openalex.org/W2001968606,13,1,1948,10.1002/j.1538-7305.1948.tb01340.x,Spectra of Quantized Signals,963,W. R. Bennett
+https://openalex.org/W1586718744,5,17,1966,10.1016/s0065-2458(08)60418-0,Speculations Concerning the First Ultraintelligent Machine,630,I. J. Good
+https://openalex.org/W2097645910,6,5,1971,10.1121/1.1912679,Speech Analysis and Synthesis by Linear Prediction of the Speech Wave,1195,Bishnu S. Atal; Suzanne L. Hanauer
+https://openalex.org/W1536990986,7,6,1972,10.1007/978-3-662-01562-9,Speech Analysis Synthesis and Perception,1457,James L. Flanagan
+https://openalex.org/W2316593342,6,1,1971,10.4153/cjm-1971-081-3,Sphere Packings and Error-Correcting Codes,201,John Leech; N. J. A. Sloane
+https://openalex.org/W2066072386,6,2,1973,10.1016/0047-259x(73)90028-6,Statistical decision theory for quantum systems,622,A. S. Holevo
+https://openalex.org/W2007321142,9,2,1966,10.1214/aoms/1177699147,Statistical Inference for Probabilistic Functions of Finite State Markov Chains,2753,Leonard E. Baum; Ted Petrie
+https://openalex.org/W2042263899,3,1,1966,10.1086/627137,Statistical Law of Stream Numbers,941,Ronald L. Shreve
+https://openalex.org/W2018763953,7,2,1957,10.1143/jpsj.12.570,Statistical-Mechanical Theory of Irreversible Processes. I. General Theory and Simple Applications to Magnetic and Conduction Problems,9182,Ryogo Kubo
+https://openalex.org/W1498066347,13,3,1957,10.2307/2333276,Statistical Methods and Scientific Inference.,1285,M. S. Bartlett; Ronald Aylmer Fisher
+https://openalex.org/W2014448832,9,1,1953,10.1037/h0056940,Stimulus information as a determinant of reaction time.,1443,Ray Hyman
+https://openalex.org/W2289346085,3,1,1954,10.1080/00437956.1954.11659509,Structure Formelle des Textes et Communication,158,Benoît B. Mandelbrot
+https://openalex.org/W2319596198,3,1,1947,10.2307/2256507,Studies in the Ecology of Rivers: VII. The Algae of Organically Enriched Waters,92,R. W. Butcher
+https://openalex.org/W2016377072,5,2,1972,10.1016/0010-0285(72)90016-3,Subjective probability: A judgment of representativeness,4810,Daniel Kahneman; Amos Tversky
+https://openalex.org/W2053301303,3,1,1970,10.1287/opre.18.5.924,Surrogate Mathematical Programming,207,Harvey J. Greenberg; William P. Pierskalla
+https://openalex.org/W2061998039,6,1,1966,10.1002/j.1538-7305.1966.tb02435.x,Synthesis of Band-Limited Orthogonal Signals for Multichannel Data Transmission,1232,Robert W. Chang
+https://openalex.org/W610966941,4,4,1973,,System of water quality from the biological point of view,710,V. Sládeček
+https://openalex.org/W2139794367,34,2,1966,10.2307/2003554,"Table of Integrals, Series, and Products",8055,D. S.; I. S. Gradshteyn; I.M. RYZHIK
+https://openalex.org/W2044465660,27,1,1973,10.1109/tsmc.1973.4309314,Textural Features for Image Classification,22190,Robert M. Haralick; Karthikeyan Shanmugam; I. Dinstein
+https://openalex.org/W2003304826,4,1,1975,10.1016/s0146-664x(75)80008-6,Texture analysis using gray level run lengths,2116,Mary M. Galloway
+https://openalex.org/W2057980421,3,1,1935,10.1063/1.1749604,The Activated Complex in Chemical Reactions,5615,Henry Eyring
+https://openalex.org/W4240307802,3,1,1969,10.2307/2525569,The Adjustment of Stock Prices to New Information,3520,Eugene F. Fama; Lawrence Fisher; Michael C. Jensen; Richard Roll
+https://openalex.org/W2130952710,8,2,1963,10.1119/1.1969248,The Algebra of Probable Inference,230,R. T. Cox; E. T. Jaynes
+https://openalex.org/W2142927666,6,1,1972,10.1007/978-1-4684-9063-3_14,The Apportionment of Human Diversity,2429,Richard C Lewontin
+https://openalex.org/W2046465488,3,1,1970,10.1016/0026-0800(70)90038-8,The arrangement of grains in a polycrystal,307,D.A. Aboav
+https://openalex.org/W2752853835,27,6,1968,,The Art of Computer Programming,16146,Donald E. Knuth
+https://openalex.org/W1993449345,4,1,1969,10.2307/2283757,The Art of Computer Programming. Volume 1: Fundamental Algorithms.,2565,Robert E. Odeh; Donald E. Knuth
+https://openalex.org/W1981663184,6,1,1970,10.2307/2317055,The Art of Computer Programming. Volume 2: Seminumerical Algorithms.,3870,Olga Taussky; Donald E. Knuth
+https://openalex.org/W3198160809,6,1,1973,,The Art of Computer Programming: Volume 3: Sorting and Searching,3962,Donald Knuth
+https://openalex.org/W1970091448,21,3,1953,10.1214/aoms/1177729028,The Basic Theorems of Information Theory,423,Brockway McMillan
+https://openalex.org/W2090637028,8,1,1965,10.1086/294743,The Behavior of Stock-Market Prices,8620,Eugene F. Fama
+https://openalex.org/W2146747898,5,1,1927,10.1017/s0305004100011683,The calculation of atomic fields,2427,Lippert Thomas
+https://openalex.org/W1989102762,6,1,1960,10.1214/aoms/1177705783,The Capacities of Certain Channel Classes Under Random Coding,311,David Blackwell; Leo Breiman; A. J. Thomasian
+https://openalex.org/W1997176148,11,3,1959,10.1214/aoms/1177706106,The Capacity of a Class of Channels,337,David Blackwell; Leo Breiman; A. J. Thomasian
+https://openalex.org/W2017148445,5,5,1974,10.1214/aop/1176996549,The Capacity Region of a Channel with Two Senders and Two Receivers,347,Rudolf Ahlswede
+https://openalex.org/W2032966520,8,1,1968,10.2307/1853680,The Codebreakers: The Story of Secret Writing,589,Karl G. Larew; David Kahn
+https://openalex.org/W1588709600,9,1,1957,10.1215/ijm/1255380682,The coding of messages subject to chance errors,165,J. Wolfowitz
+https://openalex.org/W2141432745,6,5,1975,10.1109/tit.1975.1055346,The common information of two dependent random variables,505,A.D. Wyner
+https://openalex.org/W1981778072,4,2,1948,10.2307/1930989,"The Commonness, And Rarity, of Species",1989,F. W. Preston
+https://openalex.org/W4245152641,29,4,1975,10.1016/0020-0255(75)90036-5,The concept of a linguistic variable and its application to approximate reasoning—I,11934,Lotfi A. Zadeh
+https://openalex.org/W4240278385,6,2,1975,10.1016/0020-0255(75)90046-8,The concept of a linguistic variable and its application to approximate reasoning—II,2516,Lotfi A. Zadeh
+https://openalex.org/W2157041604,20,5,1975,10.1016/0020-0255(75)90017-1,The concept of a linguistic variable and its application to approximate reasoning-III,12161,L. A. Zadeh
+https://openalex.org/W1550798515,11,5,1962,10.3133/pp500a,The concept of entropy in landscape evolution,686,Luna B. Leopold; W. B. Langbein
+https://openalex.org/W2007229782,5,1,1970,10.1007/bf00708652,The concept of transition in quantum mechanics,288,James Park
+https://openalex.org/W2598771954,6,1,1975,,The Concepts of a Linguistic Variable and its Application to Approximate Reasoning,3367,Lotfi A. Zadeh
+https://openalex.org/W2171750587,16,1,1965,10.1109/tit.1965.1053768,The convolution inequality for entropy powers,344,Nelson M. Blachman
+https://openalex.org/W1967744164,6,1,1928,10.1002/ar.1090380305,The correlation between cell division and the shapes and sizes of prismatic cells in the epidermis of cucumis,318,Frederic T. Lewis
+https://openalex.org/W2966755844,14,1,1962,10.2307/794509,The Death and Life of Great American Cities,9175,Arthur T. Row; Jane M. Jacobs
+https://openalex.org/W2067580807,17,7,1966,10.1016/s0019-9958(66)80018-9,The definition of random sequences,1217,Per Martin-Löf
+https://openalex.org/W2112348586,19,2,1967,10.1111/jbi.14281,The detection of disease clustering and a generalized regression approach.,11658,Nathan Mantel
+https://openalex.org/W2149197198,18,5,1967,10.1109/tcom.1967.1089532,The Divergence and Bhattacharyya Distance Measures in Signal Selection,1851,T. Kailath
+https://openalex.org/W1963836677,3,1,1975,10.1007/bf00896619,The effect of randomness in the distribution of impurity atoms on FET thresholds,180,Robert W. Keyes
+https://openalex.org/W2168078737,7,2,1974,10.1109/tit.1974.1055250,The effects of a visual fidelity criterion of the encoding of images,1056,James L. Mannos; D. Sakrison
+https://openalex.org/W4301267015,18,2,1971,10.4159/harvard.9780674281653,The Entropy Law and the Economic Process,4722,Nicholas Georgescu‐Roegen
+https://openalex.org/W2997829126,4,1,1952,10.2307/2280758,"The Extrapolation, Interpolation and Smoothing of Stationary Time Series with Engineering Applications.",775,John W. Tukey; Norbert Wiener
+https://openalex.org/W2087698439,7,1,1954,10.1111/j.1746-8361.1954.tb01124.x,THE FOUNDATIONS OF STATISTICS,1723,P. C. Mahalanobis
+https://openalex.org/W2042650304,4,1,1973,10.1007/bf01645742,The four laws of black hole mechanics,3738,J. Bardeen; B. Carter; S. W. Hawking
+https://openalex.org/W4251742697,4,1,1947,10.2307/2332510,The Generalization of `Student's' Problem when Several Different Population Variances are Involved,1868,B. L. Welch
+https://openalex.org/W2062989416,4,1,1947,10.1093/biomet/34.1-2.28,THE GENERALIZATION OF ‘STUDENT'S’ PROBLEM WHEN SEVERAL DIFFERENT POPULATION VARLANCES ARE INVOLVED,4022,B. L. Welch
+https://openalex.org/W2222512263,6,1,1955,10.1002/nav.3800020109,The Hungarian method for the assignment problem,12227,Harold W. Kuhn
+https://openalex.org/W1587869157,3,1,1953,10.3133/pp252,The hydraulic geometry of stream channels and some physiographic implications,2973,Luna B. Leopold; Thomas Maddock
+https://openalex.org/W2078927981,5,4,1972,10.1093/comjnl/15.3.259,"The identification of variable-length, equifrequent character strings in a natural language data base",31,Atuhire Clare
+https://openalex.org/W1968250327,9,3,1957,10.1214/aoms/1177706899,The Individual Ergodic Theorem of Information Theory,300,Leo Breiman
+https://openalex.org/W2053566542,7,9,1960,10.1037/h0093759,The information available in brief visual presentations.,4012,George Sperling
+https://openalex.org/W2031724611,22,3,1971,10.1016/s0019-9958(71)90346-9,The information capacity of amplitude- and variance-constrained sclar gaussian channels,497,J. G. Smith
+https://openalex.org/W4237708337,7,1,1966,10.1016/0022-5193(66)90127-5,The information content of DNA,73,L.L. Gatlin
+https://openalex.org/W2034140573,6,1,1968,10.1016/0022-5193(68)90160-4,The information content of DNA. II,78,Lila L. Gatlin
+https://openalex.org/W2019841176,4,1,1938,10.1214/aoms/1177732360,The Large-Sample Distribution of the Likelihood Ratio for Testing Composite Hypotheses,3342,S. S. Wilks
+https://openalex.org/W2132453167,4,1,1956,10.1109/tit.1956.1056797,The logic theory machine--A complex information processing system,785,Allen Newell; Herbert A. Simon
+https://openalex.org/W2579555219,37,9,1956,10.1037/h0043158,"The magical number seven, plus or minus two: Some limits on our capacity for processing information.",17237,George Miller
+https://openalex.org/W4292887282,4,1,1968,10.1126/science.159.3810.56,The Matthew Effect in Science,6102,Robert Κ. Merton
+https://openalex.org/W2023754051,3,1,1968,,The Matthew effect in science. The reward and communication systems of science are considered.,4872,Robert Κ. Merton
+https://openalex.org/W2005391990,7,4,1973,10.1287/opre.21.6.1200,The Maximum-Entropy Distribution of the Future Market Price of a Stock,88,John M. Cozzolino; Michael J. Zahner
+https://openalex.org/W1984284869,112,2,1966,10.1016/0022-5193(66)90013-0,The measurement of diversity in different types of biological collections,5603,E. C. Pielou
+https://openalex.org/W1965716462,22,3,1974,10.1146/annurev.es.05.110174.001441,The Measurement of Species Diversity,2077,Robert K. Peet
+https://openalex.org/W1984602147,12,1,1953,10.1063/1.1721463,The Negentropy Principle of Information,358,Léon Brillouin
+https://openalex.org/W2104767862,29,12,1971,10.2307/1934145,The Nonconcept of Species Diversity: A Critique and Alternative Parameters,4183,Stuart H. Hurlbert
+https://openalex.org/W2032433722,3,6,1951,10.1037/h0051570,The perception of the visual world.,779,Edwin G. Boring
+https://openalex.org/W2082092506,49,3,1953,10.1093/biomet/40.3-4.237,THE POPULATION FREQUENCIES OF SPECIES AND THE ESTIMATION OF POPULATION PARAMETERS,3273,I. J. Good
+https://openalex.org/W4238804566,7,3,1967,10.1512/iumj.1968.17.17004,The Problem of Hidden Variables in Quantum Mechanics,1142,Simon Kochen; E. Specker
+https://openalex.org/W2075322664,3,1,1973,10.1007/978-94-010-2506-5_10,The Proper Treatment of Quantification in Ordinary English,2053,Richard Montague
+https://openalex.org/W1974502257,11,1,1956,10.1007/bf02289132,The Relation between Information and Variance Analyses,221,W. R. Garner; W. J. McGill
+https://openalex.org/W2146368895,35,1,1943,10.2307/1411,The Relation Between the Number of Species and the Number of Individuals in a Random Sample of an Animal Population,3471,R. A. Fisher; A. Steven Corbet; C. B. Williams
+https://openalex.org/W2039170454,6,1,1969,10.2307/3331482,The Senses Considered as Perceptual Systems,6392,Charles K. West; James J. Gibson
+https://openalex.org/W2751624169,12,1,1963,10.1111/j.1468-0149.1963.tb00813.x,THE STRUCTURE OF SCIENTIFIC REVOLUTIONS,8500,J. E. McGuire
+https://openalex.org/W1972550955,6,1,1930,10.1126/science.71.1849.569,The Symmetry of Time in Physics,81,Gilbert N. Lewis
+https://openalex.org/W2007846652,4,1,1959,,The Theory of Heat Radiation,701,Max Planck
+https://openalex.org/W2603245559,4,1,1969,10.1088/0031-9112/20/9/025,The Theory of Optimum Noise Immunity,170,P B Fellgett
+https://openalex.org/W2104559955,3,1,1938,10.1039/tf9383400029,The transition state method,829,E. P. Wigner
+https://openalex.org/W2042601507,12,2,1929,10.1103/physrev.34.163,The Uncertainty Principle,1841,H. P. Robertson
+https://openalex.org/W2333916850,10,5,1959,10.2307/2257293,The Use of Point-to-Plant Distances in the Study of the Pattern of Plant Populations,252,E. C. Pielou
+https://openalex.org/W1974758710,16,1,1937,10.2307/2279372,The Use of Ranks to Avoid the Assumption of Normality Implicit in the Analysis of Variance,3846,Milton Friedman
+https://openalex.org/W2142384583,19,3,1973,10.1109/proc.1973.9030,The viterbi algorithm,5609,G. David Forney
+https://openalex.org/W1980763425,3,1,1968,10.1109/tssc.1968.300118,The Widget Problem Revisited,13,Myron Tribus; Gary Fitts
+https://openalex.org/W2043769961,35,11,1975,10.1002/j.1538-7305.1975.tb02040.x,The Wire-Tap Channel,7038,A.D. Wyner
+https://openalex.org/W2164684058,27,8,1956,10.1109/tit.1956.1056798,The zero error capacity of a noisy channel,1485,Claude E. Shannon
+https://openalex.org/W2007304966,4,2,1949,10.1109/jrproc.1949.232323,Theoretical Limitations on the Rate of Transmission of Information,52,W. G. Tuller
+https://openalex.org/W2129977719,11,4,1965,10.1109/tit.1965.1053821,Theoretical limitations on the transmission of data from analog sources,408,Thomas J. Goblick
+https://openalex.org/W2973818247,16,3,1946,,Theory of communication,4496,Деннис Габор
+https://openalex.org/W2053565514,106,4,1925,10.1017/s0305004100009580,Theory of Statistical Estimation,2800,Ronald Aylmer Fisher
+https://openalex.org/W2038462420,8,2,1928,10.1103/physrev.32.110,Thermal Agitation of Electric Charge in Conductors,2987,H. Nyquist
+https://openalex.org/W2090888886,6,1,1928,10.1103/physrev.32.97,Thermal Agitation of Electricity in Conductors,1722,J. B. Johnson
+https://openalex.org/W2067657644,10,5,1960,10.1119/1.1935945,"Thermodynamics, An Introduction to the Physical Theories of Equilibrium Thermostatics and Irreversible Thermodynamics",268,Herbert B. Callen; P. W. Bridgman
+https://openalex.org/W2798646345,9,2,1961,,Thermostatics and thermodynamics,295,Myron Tribus
+https://openalex.org/W2332395053,4,10,1962,10.2307/2182985,Thought and Object,137,James K. Mish'alani
+https://openalex.org/W2005097301,41,9,1968,10.1080/00207166808803030,Three approaches to the quantitative definition of information<sup>*</sup>,2023,A. N. Kolmogorov
+https://openalex.org/W1971536606,5,4,1971,10.2307/1426331,Three-terminal communication channels,1522,Edward C. van der Meulen
+https://openalex.org/W4237387355,3,1,1969,10.1090/s0002-9939-1969-0247030-3,Topological entropy bounds measure-theoretic entropy,134,L. Wayne Goodwyn
+https://openalex.org/W2050296749,5,1,1955,10.1007/bf02477754,Topological information content and chemical reactions,47,George Karreman
+https://openalex.org/W2086614154,6,2,1972,10.1109/proc.1972.8780,Transform picture coding,289,P. A. Wintz
+https://openalex.org/W2019039457,6,2,1967,10.1109/tit.1967.1054047,Transmission of analog waveforms through channels with feedback (Corresp.),61,J. Schalkwijk; Leo I. Bluestein
+https://openalex.org/W2264297261,16,9,1962,10.2307/2281659,Transmission of Information.,364,Amiel Feinstein; Robert M. Fano
+https://openalex.org/W2066873261,17,1,1961,10.1119/1.1937609,Transmission of Information: A Statistical Theory of Communications,860,Robert M. Fano; David Hawkins
+https://openalex.org/W1545744341,120,5,1928,10.1002/j.1538-7305.1928.tb01236.x,Transmission of Information<sup>1</sup>,1813,R. V. L. Hartley
+https://openalex.org/W2121427778,10,2,1970,10.1109/tit.1970.1054469,Transmission of noisy information to a noisy receiver with minimum distortion,232,J.K. Wolf; J. Ziv
+https://openalex.org/W2124138287,9,4,1965,10.1143/ptp.33.423,"Transport, Collective Motion, and Brownian Motion",4518,Hazime Mori
+https://openalex.org/W2021436622,6,2,1969,10.1109/tit.1969.1054355,Tree encoding of memoryless time-discrete sources with a fidelity criterion,78,F. Jelinek
+https://openalex.org/W2145541334,4,1,1975,10.1109/tit.1975.1055415,Tree encoding of speech,145,J. Anderson; John Bruce Bodie
+https://openalex.org/W2130032292,6,7,1974,10.1109/tit.1974.1055233,Trellis Encoding of memoryless discrete-time sources with a fidelity criterion,100,Andrew J. Viterbi; J. K. Omura
+https://openalex.org/W2169476932,7,1,1956,10.1109/tit.1956.1056818,Two inequalities implied by unique decipherability,206,B. McMillan
+https://openalex.org/W1506498270,14,2,1961,,Two-way Communication Channels,798,Claude E. Shannon
+https://openalex.org/W2081412026,5,1,1964,10.1007/bf01897038,Über Mittelwerte und Entropien Vollständiger Wahrscheinlichkeitsverteilungen,23,Zoltán Daróczy
+https://openalex.org/W4299378567,5,7,1956,10.2307/2227413,Uncertainty and Business Decisions.,38,M. J. Farrell; C. F. Carter; G. P. Meredith; G. L. S. Shackle
+https://openalex.org/W1994063459,17,14,1964,10.2307/1419296,Uncertainty and Structure as Psychological Concepts,1515,D. Ε. Broadbent; W. R. Garner
+https://openalex.org/W2088325035,91,7,1975,10.1007/bf01608825,Uncertainty relations for information entropy in wave mechanics,1105,Iwo Białynicki‐Birula; Jerzy Mycielski
+https://openalex.org/W2005424667,3,1,1975,10.1103/physrevlett.34.905,Uniqueness of the Kerr Black Hole,863,David Robinson
+https://openalex.org/W2128777897,17,3,1975,10.1109/tit.1975.1055349,Universal codeword sets and representations of the integers,1157,Peter Eliaš
+https://openalex.org/W2131024393,7,4,1973,10.1109/tit.1973.1055092,Universal noiseless coding,372,L. Davisson
+https://openalex.org/W2406470551,56,2,1967,10.1214/aoms/1177698950,Upper and Lower Probabilities Induced by a Multivalued Mapping,5908,A. P. Dempster
+https://openalex.org/W281620428,3,4,1973,10.1520/stp34718s,"Use of Algae, Especially Diatoms, in the Assessment of Water Quality",137,R. Patrick
+https://openalex.org/W2041282815,32,3,1952,10.1080/01621459.1952.10483441,Use of Ranks in One-Criterion Variance Analysis,11537,William Kruskal; W. Allen Wallis
+https://openalex.org/W2137263269,3,1,1966,10.1109/tcom.1966.1089333,Useful Approximations to Optimum Quantization,66,V. Ralph Algazi
+https://openalex.org/W1542475302,5,1,1965,10.1016/0029-5582(65)90862-x,Validity of many-body approximation methods for a solvable model,1464,Harry J. Lipkin; N. Meshkov; Arnold J. Glick
+https://openalex.org/W2126711987,6,1,1959,10.1002/j.1538-7305.1959.tb01583.x,Variable-Length Binary Encodings,359,E. N. Gilbert; E. F. Moore
+https://openalex.org/W197652640,5,4,1973,,"Variable-Length Character String Analyses of Three Data-Bases, and their Application for File Compression.",8,Ian J. Barton
+https://openalex.org/W2121685929,20,1,1960,10.2307/1943563,"Vegetation of the Siskiyou Mountains, Oregon and California",3836,R. H. Whittaker
+https://openalex.org/W2313891975,4,1,1950,10.2307/1418920,Verbal Context and the Recall of Meaningful Material,473,George A. Miller; Jennifer A. Selfridge
+https://openalex.org/W2148837498,4,2,1972,10.1109/proc.1972.8776,Visual fidelity criterion and modeling,64,Z. L. Budrikis
+https://openalex.org/W2546435838,3,1,1974,10.1088/0031-9112/25/3/030,Wave Mechanics: The First Fifty Years,160,Eric Deeson
+https://openalex.org/W1989336284,7,1,1927,10.1007/bf01397394,Wechselwirkung neutraler Atome und hom�opolare Bindung nach der Quantenmechanik,1847,W. Heitler; F. London
+https://openalex.org/W2120399748,6,1,1970,10.1109/tit.1970.1054553,Weight enumerator for second-order Reed-Muller codes,63,N. J. A. Sloane; Elwyn R. Berlekamp
+https://openalex.org/W2019600788,7,6,1953,10.1037/h0057808,What is information measurement?,221,George A. Miller
+https://openalex.org/W2327198916,9,2,1974,10.2307/1426210,Why the Shannon and Hartley entropies are ‘natural’,128,J. Aczél; Bruno Forte; C. T. Ng
+https://openalex.org/W2049546703,5,1,1972,10.1038/238413a0,Will a Large Complex System be Stable?,2900,Robert M. May
+https://openalex.org/W2066739936,11,4,1975,10.1147/rd.194.0366,Zero-Modulation Encoding in Magnetic Recording,92,A. M. Patel
+https://openalex.org/W2012016549,11,3,1927,10.1007/bf01391200,Zur Quantenmechanik einfacher Bewegungstypen,1073,E. H. Kennard
+https://openalex.org/W2087042624,6,3,1955,10.1002/andp.19554520102,Zur wellenmechanischen Behandlung von Vielkörperproblemen,68,W. Macke
