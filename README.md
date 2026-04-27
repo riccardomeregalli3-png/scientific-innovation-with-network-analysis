@@ -75,6 +75,7 @@ The notebook relies on standard Python libraries for data handling, network anal
 - `plotly`
 - `scikit-learn`
 
+The repository includes `requirements.txt` for reproducibility.
 
 ## How to run
 
